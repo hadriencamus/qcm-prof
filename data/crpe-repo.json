@@ -1,0 +1,1077 @@
+[
+ {
+  "c": "Maths",
+  "q": "Quel est le PGCD de 84 et 56 ?",
+  "o": [
+   "7",
+   "14",
+   "28",
+   "42"
+  ],
+  "a": 2,
+  "e": "Décomposition : 84 = 2²×3×7 et 56 = 2³×7. PGCD = 2²×7 = 28. Au CRPE, on vous demande souvent le PGCD pour vérifier si une fraction est irréductible ou pour simplifier.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Un article coûte 48 € après une réduction de 20%. Quel était son prix initial ?",
+  "o": [
+   "57,60 €",
+   "60 €",
+   "56 €",
+   "58 €"
+  ],
+  "a": 1,
+  "e": "Prix initial × 0,8 = 48, donc prix initial = 48 ÷ 0,8 = 60 €. Erreur fréquente : ajouter 20% à 48 (donne 57,60), ce qui est faux.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Dans la division euclidienne 127 ÷ 9, quel est le reste ?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "a": 0,
+  "e": "127 = 9 × 14 + 1, donc le reste est 1. On a 9 × 14 = 126, et 127 − 126 = 1.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Vrai ou faux : tout nombre entier qui se termine par 0, 2, 4, 6 ou 8 est divisible par 4.",
+  "o": [
+   "Vrai",
+   "Faux"
+  ],
+  "a": 1,
+  "e": "FAUX. Exemple : 22 se termine par 2 mais 22 ÷ 4 = 5,5. La règle de divisibilité par 4 porte sur les DEUX derniers chiffres (doivent être divisibles par 4). Ex : 124 → 24 ÷ 4 = 6 ✓",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Quelle est la valeur de (-3)² ?",
+  "o": [
+   "-9",
+   "-6",
+   "6",
+   "9"
+  ],
+  "a": 3,
+  "e": "(-3)² = (-3) × (-3) = 9. Un nombre négatif au carré donne un résultat positif. Ne pas confondre avec -3² = -(3²) = -9.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Parmi ces nombres, lequel est irrationnel ?",
+  "o": [
+   "√9",
+   "√4",
+   "√2",
+   "0,333…"
+  ],
+  "a": 2,
+  "e": "√2 est irrationnel (ne peut pas s'écrire sous forme de fraction p/q). √9 = 3 et √4 = 2 sont entiers. 0,333… = 1/3 est rationnel.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Un élève dit : '2/3 + 1/4 = 3/7'. Quelle erreur commet-il ?",
+  "o": [
+   "Il a oublié de simplifier",
+   "Il a additionné numérateurs et dénominateurs séparément",
+   "Il a inversé les fractions",
+   "Il a fait une erreur de signe"
+  ],
+  "a": 1,
+  "e": "Erreur classique de conception : additionner numérateur + numérateur et dénominateur + dénominateur. La bonne méthode : réduire au même dénominateur → 8/12 + 3/12 = 11/12. C'est une conception erronnée fréquente à l'école primaire, souvent citée dans les questions didactiques du CRPE.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Résoudre l'équation : 3x − 7 = 2x + 5",
+  "o": [
+   "x = 2",
+   "x = 12",
+   "x = -12",
+   "x = 1"
+  ],
+  "a": 1,
+  "e": "3x − 2x = 5 + 7 → x = 12.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "La fonction f(x) = 2x − 3 est une fonction affine. Quel est son coefficient directeur ?",
+  "o": [
+   "-3",
+   "2",
+   "3",
+   "-2"
+  ],
+  "a": 1,
+  "e": "f(x) = ax + b. Ici a = 2 (coefficient directeur = pente) et b = -3 (ordonnée à l'origine). La droite monte de 2 unités pour chaque unité en x.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Résoudre l'inéquation : 2x + 1 < 7",
+  "o": [
+   "x < 4",
+   "x > 3",
+   "x < 3",
+   "x > 4"
+  ],
+  "a": 2,
+  "e": "2x < 6 → x < 3. Attention : quand on multiplie ou divise par un nombre NÉGATIF, on inverse le sens de l'inégalité.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Compléter : dans un programme Scratch, une boucle 'répéter 10 fois' qui avance de 20 pas… fait avancer le lutin de __ pas au total.",
+  "o": [
+   "20",
+   "200",
+   "100",
+   "10"
+  ],
+  "a": 1,
+  "e": "10 répétitions × 20 pas = 200 pas. Question typique du CRPE 2023-2025 : lire et interpréter un programme Scratch sans l'exécuter.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Un triangle rectangle a ses deux côtés de l'angle droit mesurant 6 cm et 8 cm. Quelle est la longueur de l'hypoténuse ?",
+  "o": [
+   "10 cm",
+   "14 cm",
+   "100 cm",
+   "√28 cm"
+  ],
+  "a": 0,
+  "e": "Théorème de Pythagore : c² = 6² + 8² = 36 + 64 = 100 → c = 10 cm. Triplet classique : 3-4-5 ou ici 6-8-10.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Dans un triangle ABC, M est le milieu de [AB] et N est le milieu de [AC]. Quelle est la longueur de MN si BC = 12 cm ?",
+  "o": [
+   "6 cm",
+   "4 cm",
+   "3 cm",
+   "8 cm"
+  ],
+  "a": 0,
+  "e": "Théorème des milieux : MN est parallèle à BC et MN = BC/2 = 6 cm. La réciproque est également au programme : si MN parallèle à BC et MN = BC/2, alors M et N sont les milieux.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Quelle est l'aire d'un disque de rayon 5 cm ? (réponse exacte)",
+  "o": [
+   "25π cm²",
+   "10π cm²",
+   "50π cm²",
+   "5π cm²"
+  ],
+  "a": 0,
+  "e": "Aire = π × r² = π × 25 = 25π cm². Ne jamais remplacer π par 3,14 quand la question demande la valeur exacte — erreur pénalisée par le jury de Bordeaux 2024.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Volume d'un cylindre de rayon 3 cm et de hauteur 10 cm ? (valeur exacte)",
+  "o": [
+   "90π cm³",
+   "30π cm³",
+   "9π cm³",
+   "900π cm³"
+  ],
+  "a": 0,
+  "e": "V = π × r² × h = π × 9 × 10 = 90π cm³. La formule est donnée dans le sujet, mais il faut savoir l'appliquer sans remplacer π par une valeur approchée si l'exactitude est demandée.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Quelle est la transformation qui conserve les distances et les angles, mais déplace la figure ?",
+  "o": [
+   "Homothétie",
+   "Translation",
+   "Symétrie axiale",
+   "Rotation"
+  ],
+  "a": 1,
+  "e": "La translation est un déplacement (isométrie directe) sans rotation. La symétrie axiale est une isométrie indirecte (retourne la figure). La rotation tourne autour d'un point. L'homothétie change la taille.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Un patron d'un cube de côté 4 cm doit être dessiné. Combien de carrés le composent ?",
+  "o": [
+   "4",
+   "5",
+   "6",
+   "8"
+  ],
+  "a": 2,
+  "e": "Un cube a 6 faces, donc son patron est composé de 6 carrés identiques. Il existe 11 patrons différents possibles pour un cube. Construction au compas/règle demandée depuis 2022.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Dans un triangle ABC rectangle en A avec AB = 3 et BC = 5, quelle est la valeur de sin(B) ?",
+  "o": [
+   "3/5",
+   "4/5",
+   "3/4",
+   "5/3"
+  ],
+  "a": 1,
+  "e": "AB = 3, BC = 5 (hypoténuse), donc AC = 4 (Pythagore). sin(B) = côté opposé / hypoténuse = AC/BC = 4/5. (Réponse corrigée : la source indiquait 3/5 par erreur.)",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Convertir 2,5 m³ en litres.",
+  "o": [
+   "250 L",
+   "25 L",
+   "2500 L",
+   "2 500 000 L"
+  ],
+  "a": 2,
+  "e": "1 m³ = 1000 L, donc 2,5 m³ = 2500 L. Erreur fréquente (rapport jury 2025) : confondre dm³ et m³. 1 dm³ = 1 L, mais 1 m³ = 1000 dm³ = 1000 L.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Un train parcourt 360 km en 2h30. Quelle est sa vitesse moyenne en km/h ?",
+  "o": [
+   "120 km/h",
+   "144 km/h",
+   "180 km/h",
+   "90 km/h"
+  ],
+  "a": 1,
+  "e": "2h30 = 2,5 heures. Vitesse = distance/durée = 360/2,5 = 144 km/h. Attention à la conversion des minutes en heures décimales : 30 min = 0,5 h.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Deux grandeurs sont directement proportionnelles. Si y = 15 quand x = 5, que vaut y quand x = 9 ?",
+  "o": [
+   "27",
+   "19",
+   "45",
+   "3"
+  ],
+  "a": 0,
+  "e": "Coefficient de proportionnalité k = y/x = 15/5 = 3. Pour x = 9 : y = 3 × 9 = 27. Vérifier : le tableau de proportionnalité doit avoir des ratios égaux.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Sur une carte à l'échelle 1/25000, deux villes sont distantes de 8 cm. Quelle est la distance réelle ?",
+  "o": [
+   "200 m",
+   "2 km",
+   "20 km",
+   "200 km"
+  ],
+  "a": 1,
+  "e": "Distance réelle = 8 cm × 25000 = 200 000 cm = 2000 m = 2 km. L'échelle 1/25000 signifie 1 cm sur la carte = 25000 cm = 250 m dans la réalité.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Série : 4, 7, 7, 10, 12, 13, 13, 13, 15. Quel est le mode ?",
+  "o": [
+   "7",
+   "10",
+   "13",
+   "12"
+  ],
+  "a": 2,
+  "e": "Le mode est la valeur la plus fréquente. Ici 13 apparaît 3 fois (contre 2 fois pour 7). À ne pas confondre avec la médiane (valeur centrale = 12 ici) ou la moyenne.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Même série (4,7,7,10,12,13,13,13,15). Quelle est la médiane ?",
+  "o": [
+   "10",
+   "12",
+   "13",
+   "11"
+  ],
+  "a": 1,
+  "e": "9 valeurs → médiane = 5e valeur dans l'ordre croissant. En comptant : 4,7,7,10,12,… La 5e est 12. Médiane = 12.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "On lance un dé à 6 faces. Quelle est la probabilité d'obtenir un nombre pair ?",
+  "o": [
+   "1/6",
+   "1/3",
+   "1/2",
+   "2/3"
+  ],
+  "a": 2,
+  "e": "Nombres pairs sur un dé : 2, 4, 6 → 3 cas favorables sur 6 cas possibles = 3/6 = 1/2. On suppose l'équiprobabilité (dé équilibré).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Un sac contient 3 billes rouges et 5 billes bleues. On tire une bille au hasard. P(rouge) = ?",
+  "o": [
+   "3/5",
+   "3/8",
+   "5/8",
+   "1/3"
+  ],
+  "a": 1,
+  "e": "Total = 3 + 5 = 8 billes. P(rouge) = 3/8. La probabilité d'un événement = nombre de cas favorables / nombre total de cas possibles (équiprobabilité).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Maths",
+  "q": "Dans un tableau croisé, 60 élèves ont été interrogés. 30 font du sport, dont 20 font aussi de la musique. Si 40 font de la musique au total, combien NE font NI sport NI musique ?",
+  "o": [
+   "5",
+   "10",
+   "15",
+   "20"
+  ],
+  "a": 1,
+  "e": "Tableau : sport∩musique = 20. Sport seulement = 30-20 = 10. Musique seulement = 40-20 = 20. Ni l'un ni l'autre = 60 - (10+20+20) = 60 - 50 = 10.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Dans la terminologie grammaticale Eduscol (2020), combien de classes de mots variables distingue-t-on ?",
+  "o": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "a": 1,
+  "e": "On distingue 5 classes variables : nom, déterminant, adjectif, pronom, verbe. Les invariables sont : adverbe, préposition, conjonction (de coordination et de subordination), interjection.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Selon la terminologie Eduscol 2020, la phrase exclamative est-elle un TYPE ou une FORME de phrase ?",
+  "o": [
+   "Un type de phrase",
+   "Une forme de phrase",
+   "Les deux sont admis",
+   "Ni l'un ni l'autre"
+  ],
+  "a": 1,
+  "e": "Selon la terminologie Eduscol 2020, la phrase exclamative est une FORME de phrase (comme la forme négative, emphatique…). Les types sont : déclaratif, interrogatif, injonctif.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la classe grammaticale du mot « que » dans : « Je pense que tu viendras » ?",
+  "o": [
+   "Pronom relatif",
+   "Conjonction de subordination",
+   "Adverbe",
+   "Pronom interrogatif"
+  ],
+  "a": 1,
+  "e": "« Que » introduit une proposition subordonnée conjonctive complétive : c'est une conjonction de subordination (ou subordonnant). Il n'a pas de fonction propre dans la subordonnée.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Dans « Il court vite », « vite » est un :",
+  "o": [
+   "Adjectif",
+   "Nom",
+   "Adverbe",
+   "Verbe"
+  ],
+  "a": 2,
+  "e": "« Vite » modifie le verbe « court » : c'est un adverbe de manière. Il est invariable.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la nature du groupe souligné dans « La fille aux yeux bleus arrive » — « aux yeux bleus » ?",
+  "o": [
+   "Groupe adjectival",
+   "Groupe nominal prépositionnel",
+   "Proposition relative",
+   "Complément du nom"
+  ],
+  "a": 1,
+  "e": "« aux yeux bleus » est un groupe nominal introduit par une préposition (groupe nominal prépositionnel), complément du nom « fille ».",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Comment appelle-t-on le complément dans « Il semble fatigué » selon la terminologie Eduscol 2020 ?",
+  "o": [
+   "Attribut du sujet",
+   "Complément d'objet direct",
+   "Épithète",
+   "Apposition"
+  ],
+  "a": 0,
+  "e": "Avec un verbe d'état (sembler, paraître, être, devenir…), l'adjectif ou le nom qui suit est attribut du sujet.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Le complément de phrase (anciennement CCL, CCT…) a une caractéristique syntaxique principale : laquelle ?",
+  "o": [
+   "Il est obligatoire",
+   "Il est déplaçable et supprimable",
+   "Il suit toujours le verbe",
+   "Il ne peut pas être pronominalisé"
+  ],
+  "a": 1,
+  "e": "Le complément de phrase est déplaçable et supprimable (effaçable). C'est ce qui le distingue du complément du verbe (COD, COI), qui lui est non déplaçable et non supprimable.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Dans « Le livre que je lis est passionnant », quelle est la fonction de « que » ?",
+  "o": [
+   "Sujet",
+   "COD",
+   "COI",
+   "Complément de phrase"
+  ],
+  "a": 1,
+  "e": "« que » est pronom relatif, représentant « le livre ». Dans la relative, il est COD du verbe « lis » (je lis quoi ? que = le livre).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle manipulation syntaxique permet d'identifier le COD ?",
+  "o": [
+   "Le déplacement en tête de phrase",
+   "La pronominalisation par le/la/les ou y/en",
+   "L'effacement",
+   "La substitution par un adverbe"
+  ],
+  "a": 1,
+  "e": "On remplace le COD par le, la, les (ou l') : « Il mange la pomme → Il la mange ». Le COI se remplace par lui, leur, y, en.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Dans « On l'a jugée coupable », quelle est la fonction de « coupable » ?",
+  "o": [
+   "Attribut du sujet",
+   "Attribut du COD",
+   "Épithète",
+   "Apposition"
+  ],
+  "a": 1,
+  "e": "Après un verbe de perception ou de jugement, l'adjectif qualifiant le COD est « attribut du COD ». Il s'accorde avec le COD (ici féminin).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la nature de la subordonnée dans « Il faut qu'il vienne » ?",
+  "o": [
+   "Proposition subordonnée relative",
+   "Proposition subordonnée conjonctive complétive",
+   "Proposition subordonnée conjonctive circonstancielle",
+   "Proposition indépendante"
+  ],
+  "a": 1,
+  "e": "La subordonnée conjonctive complétive est introduite par « que » et joue le rôle de sujet ou COD. Ici elle est sujet réel de « il faut ».",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quel mode utilise-t-on dans la subordonnée introduite par « bien que » ?",
+  "o": [
+   "Indicatif",
+   "Subjonctif",
+   "Conditionnel",
+   "Infinitif"
+  ],
+  "a": 1,
+  "e": "Les conjonctions concessives (bien que, quoique, encore que…) se construisent avec le subjonctif : « Bien qu'il soit fatigué, il travaille ».",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Dans « La ville où je suis né est belle », la proposition subordonnée est :",
+  "o": [
+   "Conjonctive complétive",
+   "Conjonctive circonstancielle de lieu",
+   "Relative déterminative",
+   "Participiale"
+  ],
+  "a": 2,
+  "e": "« où je suis né » est une proposition subordonnée relative introduite par le pronom relatif « où ». Elle est déterminative car elle restreint le sens de « ville ».",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle différence entre une subordonnée relative DÉTERMINATIVE et une subordonnée relative APPOSITIVE ?",
+  "o": [
+   "La déterminative peut être supprimée sans changer le sens ; l'appositive non",
+   "La déterminative ne peut être supprimée sans changer le sens ; l'appositive (explicative) peut être supprimée",
+   "Il n'y a pas de différence",
+   "La déterminative est entre virgules"
+  ],
+  "a": 1,
+  "e": "La relative déterminative restreint le référent et ne peut être supprimée. L'appositive (ou explicative) apporte un complément d'information, souvent entre virgules, et peut être supprimée.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle valeur le présent de l'indicatif peut-il avoir dans le contexte littéraire 'Il ferme la porte et s'en va' (narration) ?",
+  "o": [
+   "Présent de vérité générale",
+   "Présent d'énonciation",
+   "Présent de narration (historique)",
+   "Présent d'habitude"
+  ],
+  "a": 2,
+  "e": "Dans un récit au passé, le présent de narration (ou historique) est utilisé pour rendre les actions plus vivantes. C'est une erreur fréquente au CRPE de répondre systématiquement 'présent d'énonciation'.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la valeur du conditionnel dans « Si tu venais, je serais content » ?",
+  "o": [
+   "Conditionnel d'hypothèse (irréel du présent)",
+   "Conditionnel de politesse",
+   "Conditionnel journalistique",
+   "Futur dans le passé"
+  ],
+  "a": 0,
+  "e": "La structure si + imparfait → conditionnel présent exprime une hypothèse à réalisation incertaine (irréel du présent ou potentiel).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la différence aspectuelle entre l'imparfait et le passé simple dans un récit ?",
+  "o": [
+   "L'imparfait exprime l'accompli, le passé simple l'inaccompli",
+   "L'imparfait exprime la durée/habitude/arrière-plan ; le passé simple exprime des événements ponctuels au premier plan",
+   "L'imparfait est plus formel que le passé simple",
+   "Il n'y a pas de différence aspectuelle"
+  ],
+  "a": 1,
+  "e": "C'est la valeur aspectuelle essentielle : l'imparfait (aspect sécant/imperfectif) donne le cadre, la durée, la description ; le passé simple (aspect global/perfectif) fait avancer l'action.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la règle d'accord du participe passé avec l'auxiliaire AVOIR ?",
+  "o": [
+   "Il s'accorde toujours avec le sujet",
+   "Il s'accorde avec le COD si celui-ci est placé avant le verbe",
+   "Il est toujours invariable",
+   "Il s'accorde avec le sujet si le COD est féminin"
+  ],
+  "a": 1,
+  "e": "Le participe passé avec avoir s'accorde en genre et en nombre avec le COD uniquement si ce COD est placé AVANT le verbe (pronom, relative, etc.). Ex. : 'Les fleurs qu'il a cueillies.'",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Conjuguez correctement : « Il faut que vous… » (partir — subjonctif présent)",
+  "o": [
+   "partez",
+   "partiez",
+   "êtes partis"
+  ],
+  "a": 1,
+  "e": "Subjonctif présent de « partir » à la 2e personne du pluriel : « que vous partiez ».",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Comment accorde-t-on l'adjectif dans « des robes vert foncé » ?",
+  "o": [
+   "verts foncés",
+   "vert foncé (invariable)",
+   "vertes foncées",
+   "vert foncées"
+  ],
+  "a": 1,
+  "e": "Les adjectifs de couleur composés (vert foncé) sont invariables. L'adjectif simple désignant une couleur obtenue par comparaison avec un objet (noisette, crème, marron) est aussi invariable.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la bonne orthographe ? « Les cinq cents euros que j'ai dépensé(s) »",
+  "o": [
+   "dépensé",
+   "dépensés",
+   "dépensée",
+   "dépensées"
+  ],
+  "a": 1,
+  "e": "Le COD 'que' (mis pour 'cinq cents euros', masculin pluriel) précède le verbe avoir → accord : 'dépensés'.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle opération syntaxique permet d'identifier un COMPLÉMENT DE PHRASE ?",
+  "o": [
+   "La pronominalisation",
+   "Le déplacement en tête de phrase ET l'effacement",
+   "L'accord avec le sujet",
+   "La nominalisation"
+  ],
+  "a": 1,
+  "e": "Le complément de phrase (ou cadratif) est identifié par deux opérations : il est DÉPLAÇABLE (peut se mettre en tête) et EFFAÇABLE (peut être supprimé sans rendre la phrase agrammaticale).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la structure d'une phrase passive ?",
+  "o": [
+   "Sujet + verbe actif + COD",
+   "Sujet + auxiliaire être + participe passé + (complément d'agent)",
+   "Sujet + verbe pronominal",
+   "Sujet + verbe + attribut"
+  ],
+  "a": 1,
+  "e": "La voix passive : être (conjugué) + participe passé. Le sujet est le patient, le complément d'agent (introduit par par ou de) est l'agent. Ex. : 'La lettre a été écrite par Paul.'",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Dans la terminologie Eduscol, qu'est-ce qu'une phrase AVERBALE ?",
+  "o": [
+   "Une phrase avec un verbe à l'infinitif",
+   "Une phrase sans verbe conjugué",
+   "Une phrase négative",
+   "Une phrase avec un verbe impersonnel"
+  ],
+  "a": 1,
+  "e": "La phrase averbale (ou non verbale) ne comporte pas de verbe conjugué. Ex. : 'Quelle belle journée !', 'Interdit de fumer.', 'Au secours !'",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle figure de style est employée dans « Le temps qui passe est un voleur » ?",
+  "o": [
+   "Comparaison",
+   "Métaphore",
+   "Personnification",
+   "Métonymie"
+  ],
+  "a": 1,
+  "e": "C'est une métaphore : une comparaison sans outil comparatif ('comme'). Le temps est assimilé à un voleur sans que l'on dise 'comme'.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "L'anaphore est :",
+  "o": [
+   "Une répétition d'un son en fin de vers",
+   "Une répétition d'un mot ou groupe de mots en début de phrases ou propositions successives",
+   "Une figure d'atténuation",
+   "Un changement de registre"
+  ],
+  "a": 1,
+  "e": "L'anaphore est la répétition d'un terme ou d'un groupe en position initiale. Ex. : 'Je me souviens… Je me souviens… Je me souviens…' (Perec). À ne pas confondre avec l'épiphore (répétition en fin).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "L'euphémisme consiste à :",
+  "o": [
+   "Exagérer pour frapper l'esprit",
+   "Atténuer une réalité dure ou choquante par un terme plus doux",
+   "Désigner une chose par une autre qui lui est associée",
+   "Opposer deux termes pour créer un contraste"
+  ],
+  "a": 1,
+  "e": "L'euphémisme adoucit une réalité négative. Ex. : 'il nous a quittés' pour 'il est mort'. À distinguer de la litote (dire moins pour signifier plus) et de l'hyperbole (exagération).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Comment appelle-t-on le procédé de formation des mots par ajout d'un préfixe ou suffixe à un radical ?",
+  "o": [
+   "Composition",
+   "Dérivation",
+   "Conversion",
+   "Troncation"
+  ],
+  "a": 1,
+  "e": "La dérivation (ou affixation) consiste à ajouter un affixe (préfixe ou suffixe) à une base. Ex. : re-faire (préfixe), chant-eur (suffixe). La composition assemble deux bases : porte-monnaie.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle est la famille de mots du radical « port- » (du latin portare) ?",
+  "o": [
+   "portail, portrait, porte",
+   "porter, porteur, transport, apport, report, exportation",
+   "important, importer, importun",
+   "portée, portillon, portique"
+  ],
+  "a": 1,
+  "e": "La famille étymologique de 'portare' (porter) : porter, porteur, transport, apport, report, exportation, déportation... 'Portrait' vient de 'portraire' (tracer), 'portique' du latin 'porticus'.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Qu'est-ce qu'un mot POLYSÉMIQUE ?",
+  "o": [
+   "Un mot qui appartient à plusieurs classes grammaticales",
+   "Un mot qui a plusieurs sens",
+   "Un mot formé de plusieurs morphèmes",
+   "Un mot emprunté à une autre langue"
+  ],
+  "a": 1,
+  "e": "La polysémie : un même signe a plusieurs sens selon le contexte. Ex. : 'bouche' = organe, ouverture d'un souterrain, embouchure. À distinguer de l'homonymie (mots différents de même prononciation).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle relation sémantique unit 'chien' et 'animal' ?",
+  "o": [
+   "Synonymie",
+   "Antonymie",
+   "Hyponymie/hyperonymie",
+   "Paronymie"
+  ],
+  "a": 2,
+  "e": "'Chien' est un hyponyme d''animal' (terme plus général = hyperonyme). La relation est d'inclusion : tout chien est un animal, mais tout animal n'est pas un chien.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Les mots 'verre' (récipient) et 'ver' (animal) sont des :",
+  "o": [
+   "Synonymes",
+   "Paronymes",
+   "Homophones",
+   "Antonymes"
+  ],
+  "a": 2,
+  "e": "Ce sont des homophones (même prononciation, sens différents, orthographe différente). Les paronymes sont proches à l'oral mais pas identiques : 'conjoncture/conjecture'.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quelle distinction fait-on entre sens DÉNOTÉ et sens CONNOTÉ ?",
+  "o": [
+   "Le sens dénoté est subjectif, le sens connoté est objectif",
+   "Le sens dénoté est le sens littéral/objectif ; le sens connoté regroupe les valeurs affectives, culturelles, symboliques associées au mot",
+   "Le sens dénoté s'applique aux noms, le sens connoté aux verbes",
+   "Il n'y a pas de différence"
+  ],
+  "a": 1,
+  "e": "La dénotation = le sens de dictionnaire, neutre. La connotation = les valeurs affectives, sociales, symboliques. 'Rose' (dénoté : fleur) peut connoter l'amour, la féminité, la douceur.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Qu'est-ce qu'un CHAMP SÉMANTIQUE ?",
+  "o": [
+   "Ensemble de mots ayant la même racine",
+   "Ensemble des sens d'un seul mot polysémique",
+   "Ensemble des mots qui appartiennent au même domaine de référence",
+   "Ensemble des synonymes d'un mot"
+  ],
+  "a": 1,
+  "e": "Le champ sémantique (ou lexical) regroupe des mots renvoyant à un même thème. Ex. : champ sémantique de la mer : vague, marée, côte, marin, nager... Le champ lexical inclut aussi les expressions.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Le préfixe 'pré-' indique :",
+  "o": [
+   "Postériorité",
+   "Antériorité / avant",
+   "Contraire",
+   "Répétition"
+  ],
+  "a": 1,
+  "e": "'Pré-' (du latin prae) signifie 'avant' : prévoir, prénatal, préhistoire. À distinguer de 'post-' (après), 'anti-' (contre), 're-' (de nouveau).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quel est le sens du suffixe « -tion » ?",
+  "o": [
+   "Agent/celui qui fait",
+   "Action ou résultat d'une action",
+   "Qualité abstraite",
+   "Diminutif"
+  ],
+  "a": 1,
+  "e": "'-tion' forme des noms d'action ou de résultat : création (acte de créer), destruction, formation... '-eur/-eur' indique l'agent, '-ité' la qualité abstraite.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "Français",
+  "q": "Quels sont les trois niveaux de langue traditionnellement distingués ?",
+  "o": [
+   "Familier, courant (ou standard), soutenu",
+   "Oral, écrit, littéraire",
+   "Argot, populaire, académique",
+   "Régional, national, international"
+  ],
+  "a": 0,
+  "e": "On distingue : niveau familier (informal), courant (ou standard, usuel) et soutenu (ou littéraire, soigné). Au CRPE, on peut aussi parler de registres de langue.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "En quelle année la loi Jules Ferry a-t-elle rendu l'instruction publique laïque et obligatoire ?",
+  "o": [
+   "1871",
+   "1882",
+   "1905",
+   "1946"
+  ],
+  "a": 1,
+  "e": "1882 : Jules Ferry rend l'école primaire publique obligatoire (6–13 ans) et laïque — fin de l'enseignement religieux dans les écoles publiques et remplacement des crucifix par Marianne. La gratuité avait été instaurée en 1881. La loi de 1905 concerne la séparation des Églises et de l'État.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Combien de domaines comprend le Socle commun de connaissances, de compétences et de culture (2015) ?",
+  "o": [
+   "3",
+   "4",
+   "5",
+   "7"
+  ],
+  "a": 2,
+  "e": "5 domaines : (1) Langages pour penser et communiquer, (2) Méthodes et outils pour apprendre, (3) Formation de la personne et du citoyen, (4) Systèmes naturels et techniques, (5) Représentations du monde et activité humaine. Ce socle structure la scolarité obligatoire de 3 à 16 ans.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "La loi de 2004 interdit les signes religieux ostensibles à l'école. À qui s'applique-t-elle ?",
+  "o": [
+   "Aux élèves et aux enseignants",
+   "Aux élèves uniquement",
+   "Aux enseignants uniquement",
+   "À tous les adultes de l'école"
+  ],
+  "a": 1,
+  "e": "Aux élèves uniquement. Les enseignants et agents publics sont soumis au devoir de neutralité depuis la loi de 1983 (fonctionnaires). Les parents accompagnateurs ne sont pas soumis à la loi de 2004 mais à une obligation de discrétion (circulaire Chatel 2012). La loi de 2004 ne s'applique qu'aux élèves dans les écoles, collèges et lycées publics.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Le cycle 3 (consolidation) regroupe quelles classes ?",
+  "o": [
+   "CE2, CM1, CM2",
+   "CM1, CM2, 6e",
+   "CM2, 6e, 5e",
+   "CP, CE1, CE2"
+  ],
+  "a": 1,
+  "e": "CM1, CM2 et 6e. Depuis la réforme de 2015, le cycle 3 inclut le CM1, le CM2 et la classe de 6e, créant un lien fort entre l'école et le collège. CP, CE1, CE2 forment le cycle 2 (apprentissages fondamentaux). La maternelle forme le cycle 1. La 5e, 4e, 3e forment le cycle 4.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Quelle loi a instauré l'obligation d'instruction dès l'âge de 3 ans ?",
+  "o": [
+   "Loi Peillon 2013",
+   "Loi Jospin 1989",
+   "Loi Blanquer 2019",
+   "Loi Fillon 2005"
+  ],
+  "a": 2,
+  "e": "Loi Blanquer (2019) dite « pour une école de la confiance » — elle abaisse l'âge de l'instruction obligatoire de 6 à 3 ans, rendant la maternelle obligatoire. Elle renforce aussi le devoir de neutralité des enseignants. La loi Peillon (2013) avait instauré les rythmes scolaires et l'EMC.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "La Charte de la laïcité à l'école a été publiée en quelle année ?",
+  "o": [
+   "2004",
+   "2010",
+   "2013",
+   "2019"
+  ],
+  "a": 2,
+  "e": "2013, sous le ministère de Vincent Peillon. La Charte de la laïcité à l'école comporte 15 articles et doit être affichée dans tous les espaces d'enseignement. Elle est remise à chaque élève et ses parents en début d'année. Elle précise les droits et devoirs de chacun face à la laïcité à l'école.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Parmi ces propositions, laquelle décrit correctement la laïcité ?",
+  "o": [
+   "La laïcité impose que tous les citoyens soient athées",
+   "La laïcité interdit toute expression religieuse dans l'espace public",
+   "La laïcité garantit la liberté de conscience et la neutralité de l'État",
+   "La laïcité ne s'applique qu'aux agents publics"
+  ],
+  "a": 2,
+  "e": "La laïcité garantit la liberté de conscience. Elle ne combat pas la religion : elle protège la liberté de croire ou de ne pas croire. L'État est neutre vis-à-vis des religions. C'est une distinction fondamentale à maîtriser pour l'oral : laïcité ≠ athéisme, laïcité ≠ interdiction de la religion dans toute la vie publique.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Qu'est-ce qu'un PPRE ?",
+  "o": [
+   "Un Plan Pédagogique de Réussite en Établissement",
+   "Un Programme Personnalisé de Réussite Éducative",
+   "Un Protocole Pluridisciplinaire de Remédiation scolaire",
+   "Un Parcours Progressif de Réinsertion en École"
+  ],
+  "a": 1,
+  "e": "Programme Personnalisé de Réussite Éducative. C'est un dispositif d'aide mis en place par l'équipe pédagogique pour les élèves qui risquent de ne pas maîtriser les connaissances du socle commun. Il est différent du PAP (Plan d'Accompagnement Personnalisé, pour les troubles des apprentissages comme la dyslexie) et du PPS (Projet Personnalisé de Scolarisation, pour le handicap).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Quelle loi a instauré le « collège unique » ?",
+  "o": [
+   "Loi Capelle-Fouchet 1963",
+   "Loi Haby 1975",
+   "Loi Jospin 1989",
+   "Loi Fillon 2005"
+  ],
+  "a": 1,
+  "e": "Loi Haby (1975) : René Haby instaure le collège unique, mettant fin à la filière des cours complémentaires. L'objectif est que tous les élèves suivent un tronc commun au collège. La loi Jospin (1989) a placé l'élève au centre du système éducatif. La loi Fillon (2005) a instauré le socle commun de compétences.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Combien d'articles comporte la Charte de la laïcité à l'école ?",
+  "o": [
+   "10",
+   "15",
+   "20",
+   "7"
+  ],
+  "a": 1,
+  "e": "15 articles. La Charte de la laïcité (2013) comporte 15 articles organisés en 3 parties : les principes généraux de la laïcité, son application à l'école, et les droits et obligations des membres de la communauté éducative. Elle doit être affichée dans tous les locaux et espaces d'enseignement publics.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Quel sigle désigne le dispositif de scolarisation des élèves en situation de handicap dans une école ordinaire ?",
+  "o": [
+   "RASED",
+   "AESH",
+   "ULIS",
+   "SESSAD"
+  ],
+  "a": 2,
+  "e": "ULIS : Unité Localisée pour l'Inclusion Scolaire. Ce dispositif accueille des élèves avec des besoins éducatifs particuliers dans une école ordinaire, avec un enseignant spécialisé. À ne pas confondre avec : AESH (accompagnant individuel d'un élève), RASED (équipe de soutien itinérante), SESSAD (service médico-social extérieur à l'école).",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Un élève de CM1 refuse de participer à une séance de natation en invoquant des raisons religieuses. Quelle est la bonne posture de l'enseignant ?",
+  "o": [
+   "Accepter le refus pour respecter la liberté religieuse",
+   "Sanctionner immédiatement l'élève pour insubordination",
+   "Dialoguer, expliquer le cadre scolaire et associer les parents si nécessaire",
+   "Supprimer la séance pour éviter le conflit"
+  ],
+  "a": 2,
+  "e": "Dialogue et cadre institutionnel. L'enseignant rappelle que les programmes scolaires sont obligatoires (EPS fait partie du programme). Il dialogue avec l'élève et les parents, explique la valeur éducative de l'activité, et fait appel au directeur ou à l'IEN en cas de persistance. Il ne cède pas au refus, mais ne sanctionne pas de manière punitive sans dialogue préalable.",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ },
+ {
+  "c": "École & valeurs",
+  "q": "Quelle loi a introduit la notion d'« élève au centre du système éducatif » ?",
+  "o": [
+   "Loi Haby 1975",
+   "Loi Jospin 1989",
+   "Loi Fillon 2005",
+   "Loi Peillon 2013"
+  ],
+  "a": 1,
+  "e": "Loi Jospin (1989) dite « loi d'orientation sur l'éducation » — célèbre pour avoir placé l'élève « au centre du système éducatif ». Elle a aussi créé les IUFM (instituts de formation des maîtres) et posé le principe du projet d'école. Une citation clé à retenir : « L'élève est au cœur du système éducatif. »",
+  "s": "Dépôt GitHub « CRPE » (cecilesauder)",
+  "u": "https://github.com/cecilesauder/CRPE"
+ }
+]

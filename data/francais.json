@@ -1,0 +1,2354 @@
+[
+ {
+  "c": "Français",
+  "t": "Temps et modes",
+  "q": "Dans la phrase « On racontait que le magasin occuperait bientôt tout le quartier », comment est conjugué le verbe « occuperait » ?",
+  "o": [
+   "Conditionnel présent",
+   "Futur simple de l'indicatif",
+   "Imparfait de l'indicatif",
+   "Imparfait du subjonctif"
+  ],
+  "a": 0,
+  "e": "La terminaison -rait (radical du futur et terminaison de l'imparfait) signale le conditionnel présent, que la terminologie de 2020 rattache à l'indicatif. Le futur simple serait « occupera », l'imparfait « occupait ».",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Temps et modes",
+  "q": "Dans « Mouret, disait-on, avait traité avec le baron », à quel temps est le verbe « avait traité » ?",
+  "o": [
+   "Passé composé de l'indicatif",
+   "Passé antérieur de l'indicatif",
+   "Plus-que-parfait de l'indicatif",
+   "Conditionnel passé"
+  ],
+  "a": 2,
+  "e": "Auxiliaire « avoir » à l'imparfait suivi du participe passé : c'est le plus-que-parfait. Le passé antérieur emploierait l'auxiliaire au passé simple (« eut traité »), le passé composé l'auxiliaire au présent (« a traité »).",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "On met au pluriel le sujet de la phrase « Seule, au milieu du chantier, la vieille maison restait debout ». Quelle réécriture est correcte ?",
+  "o": [
+   "Seules, au milieu du chantier, les vieilles maisons restaient deboutes.",
+   "Seules, au milieu du chantier, les vieilles maisons restaient debout.",
+   "Seule, au milieu du chantier, les vieilles maisons restaient debouts.",
+   "Seules, au milieu du chantier, les vieilles maisons restait debout."
+  ],
+  "a": 1,
+  "e": "« Seules » et « vieilles » s'accordent avec « maisons » et le verbe passe au pluriel, mais « debout » est un adverbe, donc invariable. Le piège est d'accorder « debout » comme un adjectif.",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Elle la revoyait assombrie » (« la » désigne la boutique), quelle est la fonction de « assombrie » ?",
+  "o": [
+   "Épithète du pronom « la »",
+   "Attribut du complément d'objet direct",
+   "Complément d'objet direct",
+   "Attribut du sujet"
+  ],
+  "a": 1,
+  "e": "« Assombrie » caractérise le pronom COD « la » par l'intermédiaire du verbe « revoir » : c'est un attribut du COD. Un pronom ne peut pas recevoir d'épithète, et l'adjectif ne fait pas partie d'un groupe nominal.",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Lorsque Denise arriva, la rue était barrée par des charrettes, qui déchargeaient des briques », quelle est la nature de « qui déchargeaient des briques » ?",
+  "o": [
+   "Proposition subordonnée circonstancielle de temps",
+   "Proposition subordonnée conjonctive complétive",
+   "Proposition subordonnée relative",
+   "Proposition indépendante coordonnée"
+  ],
+  "a": 2,
+  "e": "Elle est introduite par le pronom relatif « qui », dont l'antécédent est « charrettes ». Le piège est la circonstancielle : c'est « Lorsque Denise arriva » qui est la subordonnée de temps.",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Voix active et passive",
+  "q": "Dans « la rue était barrée par une file de charrettes », comment analyser « était barrée » ?",
+  "o": [
+   "Imparfait de l'indicatif, voix passive",
+   "Plus-que-parfait de l'indicatif, voix active",
+   "Passé composé de l'indicatif, voix passive",
+   "Imparfait de l'indicatif, voix active"
+  ],
+  "a": 0,
+  "e": "L'auxiliaire « être » à l'imparfait suivi du participe, avec un complément d'agent (« par une file de charrettes »), forme l'imparfait passif. Ce n'est pas un plus-que-parfait : à l'actif, « barrer » se conjugue avec « avoir ».",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Dans le mot « immobile », quel est le sens du préfixe « im- » ?",
+  "o": [
+   "Il marque la négation, le contraire",
+   "Il marque la répétition",
+   "Il marque l'intériorité, comme dans « importer »",
+   "Il marque l'intensité"
+  ],
+  "a": 0,
+  "e": "« Immobile » signifie « qui n'est pas mobile » : « im- » est la forme du préfixe négatif « in- » devant « m ». Le préfixe homonyme signifiant « dans » (importer, immerger) n'a pas ce sens.",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (lexique, question 2a)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Figures de style",
+  "q": "Dans « une détresse tombait de la façade entière », quelle figure de style prête à la maison un sentiment humain ?",
+  "o": [
+   "Une hyperbole",
+   "Une personnification",
+   "Une litote",
+   "Une antithèse"
+  ],
+  "a": 1,
+  "e": "La détresse est un sentiment humain attribué ici à une façade, comme si la boutique souffrait : c'est une personnification. Rien n'est exagéré (hyperbole) ni atténué (litote).",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Temps et modes",
+  "q": "Dans « il semblait que la vieille boutique diminuât », à quel temps et à quel mode est « diminuât » ?",
+  "o": [
+   "Passé simple de l'indicatif",
+   "Conditionnel présent",
+   "Imparfait de l'indicatif",
+   "Imparfait du subjonctif"
+  ],
+  "a": 3,
+  "e": "La terminaison -ât, avec accent circonflexe, caractérise l'imparfait du subjonctif, appelé ici par « il semblait que » selon la concordance des temps de la langue soutenue. Le passé simple s'écrirait « diminua », sans accent.",
+  "s": "Sujet CRPE bac+3 2026, groupement 1 (texte d'appui, ligne 19)",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Degrés de l'adjectif",
+  "q": "Dans « Ma mère est la plus élégante du groupe », comment identifier la tournure « la plus élégante du groupe » ?",
+  "o": [
+   "Comparatif de supériorité",
+   "Superlatif relatif de supériorité",
+   "Superlatif absolu",
+   "Superlatif relatif d'infériorité"
+  ],
+  "a": 1,
+  "e": "« La plus ... du groupe » place la qualité au plus haut degré par rapport à un ensemble (le groupe) : c'est un superlatif relatif. Le superlatif absolu ne compare à rien (« très élégante »).",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (étude de la langue, question 1a)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Degrés de l'adjectif",
+  "q": "Quelle forme correspond au superlatif absolu de l'adjectif « élégant » ?",
+  "o": [
+   "Plus élégant que sa sœur",
+   "Très élégant",
+   "Aussi élégant que lui",
+   "Le moins élégant de tous"
+  ],
+  "a": 1,
+  "e": "Le superlatif absolu exprime un degré très élevé sans élément de comparaison : « très élégant ». Les autres formes sont des comparatifs (supériorité, égalité) ou un superlatif relatif d'infériorité.",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (étude de la langue, question 1b)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Coiffée d'un large chapeau, ma mère lisait à l'ombre », quelle est la fonction du groupe « Coiffée d'un large chapeau » ?",
+  "o": [
+   "Complément du nom « chapeau »",
+   "Complément d'objet direct de « lisait »",
+   "Attribut du sujet « ma mère »",
+   "Épithète détachée (apposition) du sujet « ma mère »"
+  ],
+  "a": 3,
+  "e": "Le groupe participial, séparé par une virgule, caractérise « ma mère » sans passer par un verbe attributif : c'est une épithète détachée, qu'on appelle aussi apposition. Il n'est pas attribut, car « lisait » n'est pas un verbe attributif.",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Le soir, mon père lève le toit de la tente », quelle est la fonction de « Le soir » ?",
+  "o": [
+   "Sujet du verbe « lève »",
+   "Complément du nom « toit »",
+   "Complément circonstanciel de temps",
+   "Complément d'objet direct"
+  ],
+  "a": 2,
+  "e": "« Le soir » peut être déplacé et supprimé sans rendre la phrase incorrecte : c'est un complément circonstanciel de temps (complément de phrase dans la terminologie de 2020). Le sujet est « mon père ».",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "Quels sont le type et les formes de la phrase « Le dimanche, ce n'est jamais lui qui fait la vaisselle » ?",
+  "o": [
+   "Type déclaratif ; formes affirmative et emphatique",
+   "Type exclamatif ; forme négative",
+   "Type déclaratif ; formes négative et emphatique",
+   "Type injonctif ; formes négative et passive"
+  ],
+  "a": 2,
+  "e": "La phrase énonce un fait et se termine par un point : type déclaratif. « Ne ... jamais » marque la forme négative, et « c'est ... qui » met en relief le sujet (forme emphatique, phrase clivée).",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "On met « Les photos la montrent » (« la » désigne une femme) au passé composé. Quelle forme est correcte ?",
+  "o": [
+   "Les photos l'ont montré.",
+   "Les photos l'ont montrée.",
+   "Les photos l'ont montrées.",
+   "Les photos l'avaient montrée."
+  ],
+  "a": 1,
+  "e": "Avec l'auxiliaire « avoir », le participe passé s'accorde avec le COD placé avant le verbe : « l' » reprend une femme, d'où « montrée ». Il ne s'accorde jamais avec le sujet « les photos », et « avaient montrée » est un plus-que-parfait.",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe lexicale",
+  "q": "Quel est le genre du nom « apogée » ?",
+  "o": [
+   "Féminin, comme tous les noms en -ée",
+   "Féminin au singulier, masculin au pluriel",
+   "Il change selon le sens",
+   "Masculin"
+  ],
+  "a": 3,
+  "e": "« Apogée » est masculin : on écrit « un apogée éclatant ». Beaucoup de noms en -ée sont féminins, mais plusieurs sont masculins (musée, lycée, trophée, apogée).",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Comment se décompose le mot « inconcevable » ?",
+  "o": [
+   "Base « inconcev- » + suffixe -able",
+   "Préfixe in- (dans) + radical de « concevoir » + suffixe -able",
+   "Préfixe incon- + base « cev- » + suffixe -able",
+   "Préfixe in- (négation) + radical de « concevoir » + suffixe -able (possibilité)"
+  ],
+  "a": 3,
+  "e": "« Inconcevable » signifie « qu'on ne peut pas concevoir » : le préfixe négatif in- s'ajoute à « concevable », formé du radical de « concevoir » et du suffixe -able. Le préfixe in- n'a pas ici le sens de « dans ».",
+  "s": "Sujet CRPE bac+3 2026, groupement 2 (lexique, question 2a)",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Après ce voyage, j'étais riche de souvenirs », quelle est la fonction de « riche » ?",
+  "o": [
+   "Épithète du pronom « je »",
+   "Attribut du complément d'objet direct",
+   "Complément circonstanciel de manière",
+   "Attribut du sujet"
+  ],
+  "a": 3,
+  "e": "« Riche » est relié au sujet « je » par le verbe attributif « être » : c'est un attribut du sujet. Une épithète appartient au groupe nominal, sans verbe intermédiaire.",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « J'ouvrais la porte d'un bar où brillaient les lampes du soir », quel est le sujet de « brillaient » ?",
+  "o": [
+   "« où »",
+   "« la porte d'un bar »",
+   "« les lampes du soir »",
+   "« J' »"
+  ],
+  "a": 2,
+  "e": "Dans la relative, le sujet est inversé après le verbe : « les lampes du soir brillaient ». « Où » est le pronom relatif complément de lieu, et « J' » est le sujet de « ouvrais ».",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Conjugaison",
+  "q": "Quelle est la forme correcte du verbe « emprunter » à la 1re personne du singulier du passé simple ?",
+  "o": [
+   "J'empruntai",
+   "J'empruntais",
+   "J'empruntis",
+   "J'emprunta"
+  ],
+  "a": 0,
+  "e": "Au passé simple, les verbes du premier groupe se terminent par -ai à la 1re personne : « j'empruntai ». « J'empruntais » est l'imparfait, piège fréquent à cause de la prononciation proche.",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (étude de la langue, question 3b)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Discours rapporté",
+  "q": "Le maître disait : « Rangez vos cahiers, vous sortirez ensuite. » Quelle transposition au discours indirect est correcte ?",
+  "o": [
+   "Le maître disait de ranger leurs cahiers et qu'ils sortiraient ensuite.",
+   "Le maître disait qu'ils rangent leurs cahiers et qu'ils sortiront ensuite.",
+   "Le maître disait de ranger vos cahiers et que vous sortirez ensuite.",
+   "Le maître disait : de ranger leurs cahiers, ils sortiraient ensuite."
+  ],
+  "a": 0,
+  "e": "Au discours indirect, l'impératif devient un infinitif introduit par « de », la 2e personne passe à la 3e, et le futur devient conditionnel présent (futur dans le passé) après un verbe introducteur au passé. Les deux-points et les guillemets disparaissent.",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Il avait tant marché qu'il ne sentait plus ses jambes », quelle est la nature de « qu'il ne sentait plus ses jambes » ?",
+  "o": [
+   "Subordonnée relative",
+   "Subordonnée complétive complément d'objet",
+   "Subordonnée circonstancielle de cause",
+   "Subordonnée circonstancielle de conséquence"
+  ],
+  "a": 3,
+  "e": "La corrélation « tant ... que » introduit la conséquence de l'action principale. Ce n'est pas une cause : la fatigue des jambes résulte de la marche, elle ne l'explique pas.",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "Quelle est la forme de la phrase « C'est la lecture des atlas qui donne l'envie de partir » ?",
+  "o": [
+   "Forme passive",
+   "Forme impersonnelle",
+   "Forme emphatique",
+   "Forme négative"
+  ],
+  "a": 2,
+  "e": "Le présentatif « c'est ... qui » détache et met en relief le sujet « la lecture des atlas » : c'est une phrase clivée, de forme emphatique. Le pronom « c' » n'en fait pas une tournure impersonnelle.",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Le préfixe de « intranquille » a le même sens que dans :",
+  "o": [
+   "inhaler",
+   "infiltrer",
+   "incruster",
+   "inutile"
+  ],
+  "a": 3,
+  "e": "« Intranquille » signifie « qui n'est pas tranquille » : le préfixe in- marque la négation, comme dans « inutile ». Dans « inhaler », « infiltrer » et « incruster », in- signifie « dans ».",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Figures de style",
+  "q": "Dans « Il s'enivrait des noms de pays lointains », quelle figure de style reconnaît-on ?",
+  "o": [
+   "Une comparaison",
+   "Une métaphore",
+   "Une litote",
+   "Une antithèse"
+  ],
+  "a": 1,
+  "e": "Le plaisir que procurent les noms de pays est assimilé à une ivresse, sans outil de comparaison (comme, tel, pareil à) : c'est une métaphore. Une comparaison exigerait un tel outil.",
+  "s": "Sujet CRPE bac+3 2026, groupement 3 (lexique, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Conjugaison",
+  "q": "On met au pluriel le sujet de « Il revint de son voyage dès le soir même ». Quelle forme est correcte ?",
+  "o": [
+   "Ils revenirent de leur voyage",
+   "Ils revinssent de leur voyage",
+   "Ils revenèrent de leur voyage",
+   "Ils revinrent de leur voyage"
+  ],
+  "a": 3,
+  "e": "Le passé simple de « revenir » se forme sur le radical « vin- » : il revint, ils revinrent. « Revinssent » est un imparfait du subjonctif.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Complétez : « Les lettres ___ avaient appris la nouvelle. »",
+  "o": [
+   "leurs",
+   "l'heure",
+   "leur",
+   "leurre"
+  ],
+  "a": 2,
+  "e": "Placé devant un verbe, « leur » est un pronom personnel (pluriel de « lui ») et reste invariable. « Leurs » est le déterminant possessif pluriel, placé devant un nom.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Elle tendit la clé d'une main si tremblante qu'il devina tout », quelle est la nature de « si » ?",
+  "o": [
+   "Conjonction de subordination",
+   "Conjonction de coordination",
+   "Pronom indéfini",
+   "Adverbe d'intensité"
+  ],
+  "a": 3,
+  "e": "« Si » modifie l'adjectif « tremblante » et forme avec « que » une corrélation de conséquence : c'est un adverbe d'intensité. Le « si » conjonction de subordination introduit une hypothèse (« si tu viens »).",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Complétez : « Il faut que je l'___ laissée sur ma table. »",
+  "o": [
+   "ai",
+   "ait",
+   "est",
+   "aie"
+  ],
+  "a": 3,
+  "e": "« Il faut que » impose le subjonctif : à la 1re personne, on écrit « que j'aie laissé ». « Ai » est l'indicatif présent ; on vérifie en changeant de personne (« il faut que nous l'ayons laissée »).",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Le facteur distribue le courrier tous les matins », quelles propriétés montrent que « tous les matins » est un complément circonstanciel ?",
+  "o": [
+   "Il est indispensable et non déplaçable",
+   "Il s'accorde avec le verbe",
+   "Il peut être remplacé par le pronom « le »",
+   "Il est déplaçable et supprimable"
+  ],
+  "a": 3,
+  "e": "Le complément circonstanciel (complément de phrase dans la terminologie de 2020) peut être déplacé en tête de phrase et supprimé sans rendre la phrase incorrecte. Le COD « le courrier », lui, se pronominalise par « le » et ne se déplace pas.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 3a)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « répondit-elle en le regardant », quelle est la nature de « en le regardant » ?",
+  "o": [
+   "Participe présent",
+   "Gérondif",
+   "Adjectif verbal",
+   "Infinitif prépositionnel"
+  ],
+  "a": 1,
+  "e": "La préposition « en » suivie du participe présent forme le gérondif, qui exprime ici la simultanéité (et la manière). Sans « en », on aurait un simple participe présent.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 3b)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Monte sur la tour pour voir si mes frères ne viennent point », quelles sont la nature et la fonction de « si mes frères ne viennent point » ?",
+  "o": [
+   "Subordonnée interrogative indirecte, complément d'objet direct de « voir »",
+   "Subordonnée circonstancielle d'hypothèse, complément de « monte »",
+   "Subordonnée relative, complément de « frères »",
+   "Subordonnée complétive introduite par que, sujet"
+  ],
+  "a": 0,
+  "e": "On peut la paraphraser par « voir : est-ce que mes frères viennent ? » : c'est une interrogative indirecte totale, introduite par « si », COD de « voir ». Il n'y a aucune hypothèse ici.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Si tu les vois, fais-leur signe », quelle est la nature de « Si tu les vois » ?",
+  "o": [
+   "Subordonnée interrogative indirecte",
+   "Subordonnée circonstancielle de condition (hypothèse)",
+   "Subordonnée relative",
+   "Proposition indépendante juxtaposée"
+  ],
+  "a": 1,
+  "e": "« Si » introduit ici la condition dont dépend l'ordre donné : c'est une subordonnée circonstancielle de condition, déplaçable et supprimable. Aucun verbe de questionnement n'introduit une interrogation indirecte.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (partie A.1, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « J'ai acheté un cahier dont je noircis déjà la première page », quelle est la fonction du pronom relatif « dont » ?",
+  "o": [
+   "Complément d'objet direct de « noircis »",
+   "Sujet de « noircis »",
+   "Complément d'objet indirect de « noircis »",
+   "Complément du nom « page »"
+  ],
+  "a": 3,
+  "e": "On rétablit la phrase simple : « je noircis la première page du cahier ». « Dont » remplace « du cahier », complément du nom « page ». Le COD de « noircis » est « la première page ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Ce matin, elle s'est procuré___ un cahier neuf. »",
+  "o": [
+   "procurée",
+   "procuré",
+   "procurés",
+   "procurées"
+  ],
+  "a": 1,
+  "e": "Ici, « se » est complément indirect (procurer quelque chose à soi) et le COD « un cahier » est placé après le verbe : le participe reste invariable. Le piège est d'accorder avec le sujet à cause de l'auxiliaire « être ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Je ne suis pas sûr que je continuerai », quelle est la fonction de « que je continuerai » ?",
+  "o": [
+   "Complément d'objet direct de « suis »",
+   "Attribut du sujet",
+   "Complément de l'adjectif « sûr »",
+   "Complément circonstanciel de cause"
+  ],
+  "a": 2,
+  "e": "La subordonnée complétive dépend de l'adjectif « sûr » (être sûr de quelque chose) : elle est complément de l'adjectif. « Être » ne peut pas avoir de COD, et l'attribut du sujet est « sûr ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Le premier cahier, qui racontait mon départ, s'est perdu », comment qualifier la relative « qui racontait mon départ » ?",
+  "o": [
+   "Relative déterminative, indispensable à l'identification de l'antécédent",
+   "Subordonnée complétive",
+   "Relative explicative, supprimable",
+   "Subordonnée circonstancielle de cause"
+  ],
+  "a": 2,
+  "e": "Encadrée par des virgules, elle ajoute une information sur un antécédent déjà identifié (« le premier cahier ») : on peut la supprimer sans changer le référent. C'est une relative explicative, et non déterminative.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Voix active et passive",
+  "q": "Comment analyser « j'avais été contraint de me cacher » ?",
+  "o": [
+   "Plus-que-parfait, voix passive",
+   "Plus-que-parfait, voix active",
+   "Passé antérieur, voix active",
+   "Passé composé, voix passive"
+  ],
+  "a": 0,
+  "e": "L'auxiliaire « être » est lui-même au plus-que-parfait (« avais été ») et suivi du participe « contraint » : c'est un plus-que-parfait passif (on m'avait contraint). Le piège est de ne compter que « avais » et d'y voir un actif.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Figures de style",
+  "q": "Dans « Il noircissait les pages, non sans plaisir », quelle figure de style l'expression « non sans plaisir » constitue-t-elle ?",
+  "o": [
+   "Une litote",
+   "Une hyperbole",
+   "Une antiphrase",
+   "Un oxymore"
+  ],
+  "a": 0,
+  "e": "La double négation (« non sans ») dit moins pour suggérer davantage : « avec un vrai plaisir ». C'est une litote. L'antiphrase dirait le contraire de ce que l'on pense, par ironie.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (lexique, question 1a)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Familles de mots",
+  "q": "Lequel de ces mots n'appartient pas à la famille de « culpabilité » ?",
+  "o": [
+   "Disculper",
+   "Découper",
+   "Inculper",
+   "Coupable"
+  ],
+  "a": 1,
+  "e": "« Culpabilité », « coupable », « disculper » et « inculper » viennent tous du latin « culpa », la faute. « Découper » appartient à la famille de « couper », malgré la ressemblance de forme.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (lexique, question 2a)",
+  "u": "https://devenirenseignant.gouv.fr/media/20142/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Elle effectuait la même tâche qu'avaient accompli___ les chroniqueurs. »",
+  "o": [
+   "accomplie",
+   "accomplis",
+   "accompli",
+   "accomplies"
+  ],
+  "a": 0,
+  "e": "Avec « avoir », le participe s'accorde avec le COD placé avant : « qu' », qui reprend « la même tâche » (féminin singulier). Le sujet inversé « les chroniqueurs » ne commande pas l'accord, ce qui piège souvent vers « accomplis ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20145/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Tandis que l'enfant grandissait, sa mère voyageait », quelle est la nature de « Tandis que » ?",
+  "o": [
+   "Locution adverbiale",
+   "Locution prépositionnelle",
+   "Conjonction de coordination",
+   "Locution conjonctive de subordination"
+  ],
+  "a": 3,
+  "e": "« Tandis que » introduit une proposition subordonnée (ici de temps, avec une idée de simultanéité) : c'est une locution conjonctive de subordination. Une préposition introduirait un groupe nominal ou un infinitif, pas une proposition.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20145/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Connecteurs",
+  "q": "« Les villes changeaient, or les livres ne changeaient pas. » Par quelle conjonction de subordination peut-on remplacer « or » en gardant le même lien logique ?",
+  "o": [
+   "alors que",
+   "si bien que",
+   "parce que",
+   "pour que"
+  ],
+  "a": 0,
+  "e": "« Or » est une conjonction de coordination qui marque ici l'opposition. « Alors que » exprime la même opposition : « Les villes changeaient, alors que les livres ne changeaient pas. » « Parce que » marquerait la cause et « si bien que » la conséquence.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20145/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Il imaginait avec quelle force la cloche avait résonné », quelles sont la nature et la fonction de « avec quelle force la cloche avait résonné » ?",
+  "o": [
+   "Subordonnée interrogative indirecte, COD de « imaginait »",
+   "Subordonnée relative, complément de l'antécédent « force »",
+   "Subordonnée circonstancielle de manière",
+   "Subordonnée complétive introduite par que, sujet"
+  ],
+  "a": 0,
+  "e": "La proposition correspond à la question « Avec quelle force la cloche avait-elle résonné ? », enchâssée après le verbe « imaginait » : interrogative indirecte partielle, COD. « Quelle » est un déterminant interrogatif, non un pronom relatif.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20145/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe grammaticale",
+  "q": "Complétez au passé simple : « Ils ___ leur lecture pendant le voyage. » (commencer)",
+  "o": [
+   "commençèrent",
+   "commencèrent",
+   "commencairent",
+   "commencerent"
+  ],
+  "a": 1,
+  "e": "La cédille ne s'emploie devant a, o, u que pour garder le son [s] : « il commença », mais « ils commencèrent », car le c se prononce déjà [s] devant e. L'accent grave est nécessaire sur -èrent.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/20145/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Figures de style",
+  "q": "« Les romans sont une île entourée de terre. » Quelle figure de style cette phrase emploie-t-elle principalement ?",
+  "o": [
+   "Une comparaison",
+   "Une litote",
+   "Une hyperbole",
+   "Une métaphore"
+  ],
+  "a": 3,
+  "e": "Les romans sont identifiés à une île sans outil de comparaison : c'est une métaphore, rendue paradoxale par l'inversion (une île entourée de terre et non d'eau). Une comparaison exigerait « comme » ou « tel ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (lexique, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20145/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Complétez : « Ces repères rendent ___ la route du retour. »",
+  "o": [
+   "reconnaissable",
+   "reconnaissables",
+   "reconnaissants",
+   "reconnaissante"
+  ],
+  "a": 0,
+  "e": "L'adjectif est attribut du COD « la route du retour » (féminin singulier, placé après) et s'accorde avec lui ; « reconnaissable » a la même forme au masculin et au féminin. Le piège est d'accorder avec le sujet « ces repères ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Dans « Continuez d'être clair, simple et froid », l'auteur s'adresse à un seul homme avec un « vous » de politesse. S'il s'adressait de même à une seule femme, quelle forme serait correcte ?",
+  "o": [
+   "Continuez d'être claires, simples et froides.",
+   "Continuez d'être clair, simple et froid.",
+   "Continuez d'être clairs, simples et froids.",
+   "Continuez d'être claire, simple et froide."
+  ],
+  "a": 3,
+  "e": "Avec le « vous » de politesse, l'attribut s'accorde selon le genre et le nombre réels de la personne : une seule femme, donc féminin singulier. Le pluriel serait fautif, car « vous » ne désigne ici qu'une personne.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Rendez votre élève attentif aux phénomènes de la nature », quelle est la fonction de « aux phénomènes de la nature » ?",
+  "o": [
+   "Complément d'objet indirect de « rendez »",
+   "Complément circonstanciel de lieu",
+   "Complément de l'adjectif « attentif »",
+   "Complément du nom « élève »"
+  ],
+  "a": 2,
+  "e": "Le groupe prépositionnel dépend de l'adjectif « attentif » (attentif à quelque chose) : il est complément de l'adjectif. « Rendre » se construit ici avec un COD (« votre élève ») et un attribut du COD (« attentif »).",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « La verdure a pris durant la nuit une vigueur nouvelle », quelle est la nature de « durant » ?",
+  "o": [
+   "Participe présent",
+   "Gérondif",
+   "Préposition",
+   "Adverbe"
+  ],
+  "a": 2,
+  "e": "« Durant » introduit le groupe nominal « la nuit » et ne peut avoir ni sujet ni complément d'objet : c'est une préposition (ancien participe présent de « durer », figé). Il équivaut à « pendant ».",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Conjugaison",
+  "q": "Complétez au pluriel : « Qu'ils ne ___ rien parce qu'on le leur a dit. » (savoir)",
+  "o": [
+   "savent",
+   "saches",
+   "sachient",
+   "sachent"
+  ],
+  "a": 3,
+  "e": "La construction « Que ... » en tête de phrase exprime un ordre à la 3e personne et appelle le subjonctif : « qu'ils sachent ». « Savent » est l'indicatif présent ; « sachient » est une forme fautive.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "Quels sont le type et la forme de la phrase « Ne tenez point à l'enfant des discours qu'il ne peut entendre » ?",
+  "o": [
+   "Type déclaratif, forme négative",
+   "Type injonctif, forme négative",
+   "Type exclamatif, forme affirmative",
+   "Type interrogatif, forme négative"
+  ],
+  "a": 1,
+  "e": "Le verbe à l'impératif donne un conseil ou un ordre : type injonctif. « Ne ... point » marque la forme négative.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Sens en contexte",
+  "q": "Dans « Les oiseaux saluent de concert le lever du jour », que signifie « de concert » ?",
+  "o": [
+   "Avec de la musique",
+   "Successivement",
+   "Ensemble, d'un même mouvement",
+   "Bruyamment"
+  ],
+  "a": 2,
+  "e": "La locution « de concert » signifie « ensemble, d'un commun accord ». Le sens musical de « concert » est le piège : il n'en reste ici que l'idée d'accord.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (lexique, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20148/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Barbicane, comme s'il eût été mû par un ressort, se redressa », quelle est la nature de « comme s'il eût été mû par un ressort » ?",
+  "o": [
+   "Subordonnée interrogative indirecte",
+   "Subordonnée circonstancielle de cause",
+   "Subordonnée relative",
+   "Subordonnée circonstancielle de comparaison"
+  ],
+  "a": 3,
+  "e": "« Comme si » introduit une comparaison avec une situation imaginaire. Le « comme » de cause (« Comme il pleuvait, ... ») ne s'emploie pas avec « si ».",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Toute guerre serait bienvenue », quelle est la nature de « Toute » ?",
+  "o": [
+   "Adverbe",
+   "Déterminant indéfini",
+   "Pronom indéfini",
+   "Adjectif qualificatif"
+  ],
+  "a": 1,
+  "e": "« Toute » précède le nom « guerre », dont il est le seul déterminant, et en prend le genre et le nombre : c'est un déterminant indéfini (« n'importe quelle »). Il serait adverbe devant un adjectif (« toute petite »).",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « De mes études est résultée une conviction », quel est le sujet du verbe « est résultée » ?",
+  "o": [
+   "« De mes études »",
+   "« mes études »",
+   "« une conviction »",
+   "Il n'y a pas de sujet exprimé"
+  ],
+  "a": 2,
+  "e": "Le sujet est inversé : « une conviction est résultée de mes études ». C'est pourquoi le participe est au féminin singulier. « De mes études » est un complément introduit par une préposition et ne peut pas être sujet.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Il nous est réservé d'être les premiers », quelle est la fonction de « Il » ?",
+  "o": [
+   "Sujet réel du verbe",
+   "Sujet grammatical d'une tournure impersonnelle",
+   "Pronom personnel reprenant un homme cité avant",
+   "Complément d'objet direct"
+  ],
+  "a": 1,
+  "e": "« Il » ne représente rien : c'est le sujet grammatical (ou apparent) d'une construction impersonnelle. Le sujet réel est le groupe infinitif « d'être les premiers » (être les premiers nous est réservé).",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Discours rapporté",
+  "q": "« Depuis des mois, je me suis demandé si nous pourrions réussir », dit Barbicane. Au discours indirect introduit par « Barbicane déclara que », que devient « je me suis demandé » ?",
+  "o": [
+   "il s'est demandé",
+   "il se demandait",
+   "je m'étais demandé",
+   "il s'était demandé"
+  ],
+  "a": 3,
+  "e": "Le verbe introducteur est au passé : un passé composé marquant l'antériorité devient plus-que-parfait, et la 1re personne passe à la 3e. On obtient « il s'était demandé s'ils pourraient réussir ».",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Discours rapporté",
+  "q": "« Pourrons-nous réussir ? » se demandait Barbicane. Quelle transposition au discours indirect est correcte ?",
+  "o": [
+   "Barbicane se demandait : s'ils pourraient réussir.",
+   "Barbicane se demandait s'ils pourraient réussir.",
+   "Barbicane se demandait pourrons-nous réussir.",
+   "Barbicane se demandait qu'ils pourront réussir."
+  ],
+  "a": 1,
+  "e": "Une interrogation totale devient une subordonnée interrogative indirecte introduite par « si », sans inversion du sujet ni point d'interrogation. Après un verbe introducteur au passé, le futur devient conditionnel présent et « nous » passe à « ils ».",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Sens en contexte",
+  "q": "Un orateur répond à « mon honorable interrupteur ». Que désigne ici le nom « interrupteur » ?",
+  "o": [
+   "Un appareil qui coupe le courant",
+   "Un président de séance",
+   "La personne qui l'a interrompu",
+   "Un adversaire politique élu"
+  ],
+  "a": 2,
+  "e": "Le suffixe -eur forme ici un nom d'agent : l'interrupteur est celui qui interrompt. Le sens électrique, plus courant aujourd'hui, est le piège ; l'adjectif « honorable » relève de la politesse ironique.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe lexicale",
+  "q": "Pourquoi écrit-on « impraticable » et non « inpraticable » ?",
+  "o": [
+   "Parce que le mot vient du latin « impratica »",
+   "Parce que la règle du m devant p ne vaut que pour les verbes",
+   "Parce que im- est un préfixe distinct qui signifie « très »",
+   "Parce que le préfixe in- devient im- devant m, b et p"
+  ],
+  "a": 3,
+  "e": "Le préfixe négatif in- devient im- devant les consonnes m, b, p (immangeable, imbuvable, impossible), selon la règle générale du m devant m, b, p.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (lexique, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/20151/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Tu me demandes ce que tu m'as fait », quelle est la nature de « ce que tu m'as fait » ?",
+  "o": [
+   "Proposition indépendante juxtaposée",
+   "Subordonnée interrogative indirecte",
+   "Subordonnée circonstancielle de cause",
+   "Subordonnée complétive introduite par que"
+  ],
+  "a": 1,
+  "e": "Elle rapporte, après le verbe « demander », la question directe que pose l'interlocuteur : « Qu'est-ce que je t'ai fait ? ». C'est une interrogative indirecte partielle, COD de « demandes », où « ce que » remplace « qu'est-ce que ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/16561/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "On remplace « je » par « elles » dans « Je rêvais aux joies que me procurerait l'avenir ». Quelle réécriture est correcte ?",
+  "o": [
+   "Elles rêvaient aux joies que leur procureraient l'avenir.",
+   "Elles rêvaient aux joies que leurs procurerait l'avenir.",
+   "Elles rêvait aux joies que leur procurerait l'avenir.",
+   "Elles rêvaient aux joies que leur procurerait l'avenir."
+  ],
+  "a": 3,
+  "e": "Dans la relative, le sujet de « procurerait » est « l'avenir », placé après le verbe : le verbe reste au singulier. « Leur », pronom complément, est invariable.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/16561/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « J'entends les oiseaux chanter », quelle est la nature de « les oiseaux chanter » ?",
+  "o": [
+   "Groupe nominal COD suivi d'un infinitif complément du nom",
+   "Proposition subordonnée relative",
+   "Proposition subordonnée infinitive, COD de « entends »",
+   "Proposition indépendante juxtaposée"
+  ],
+  "a": 2,
+  "e": "L'infinitif « chanter » a son propre sujet, « les oiseaux » (les oiseaux chantent) : c'est une proposition subordonnée infinitive, COD du verbe de perception « entends ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/16561/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Tu m'as trompé, Paul, vieil imposteur », quelle est la fonction de « Paul » ?",
+  "o": [
+   "Apostrophe",
+   "Complément d'objet direct",
+   "Sujet",
+   "Complément du nom"
+  ],
+  "a": 0,
+  "e": "Le nom désigne la personne à qui l'on s'adresse ; il est détaché par des virgules et n'a pas de lien syntaxique avec le verbe : c'est une apostrophe. Le sujet est « Tu » et le COD « m' ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/16561/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe grammaticale",
+  "q": "Complétez : « Tu n'es qu'un ___ imposteur. »",
+  "o": [
+   "vieux",
+   "vieil",
+   "vieille",
+   "vielle"
+  ],
+  "a": 1,
+  "e": "Devant un nom masculin singulier commençant par une voyelle ou un h muet, « vieux » prend la forme « vieil », comme « beau » devient « bel » et « nouveau » « nouvel ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/16561/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Sens en contexte",
+  "q": "Dans « Il pencha son cou grêle vers le vieil homme », quel synonyme convient pour « grêle » ?",
+  "o": [
+   "Froid",
+   "Ridé",
+   "Mince et fragile",
+   "Glacé"
+  ],
+  "a": 2,
+  "e": "L'adjectif « grêle » signifie « long et mince, d'apparence fragile ». Le nom homonyme « grêle » (pluie de glace) oriente à tort vers « froid » ou « glacé ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/16561/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « La marchande réclamait son dû en argent », quelle est la nature de « dû » ?",
+  "o": [
+   "Participe passé",
+   "Adjectif qualificatif",
+   "Nom",
+   "Verbe conjugué"
+  ],
+  "a": 2,
+  "e": "Précédé du déterminant possessif « son », « dû » est un participe passé employé comme nom (ce qui est dû). Il garde l'accent circonflexe, qui le distingue de l'article contracté « du ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/16573/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "Dans « Je voudrais un renseignement, s'il vous plaît », quelle est la valeur du conditionnel ?",
+  "o": [
+   "Futur dans le passé",
+   "Atténuation, politesse",
+   "Irréel du passé",
+   "Information non vérifiée"
+  ],
+  "a": 1,
+  "e": "Le conditionnel adoucit la demande : c'est un conditionnel de politesse (atténuation). Aucune condition ni aucun repère passé n'est en jeu.",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/16573/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Quelle phrase est correctement orthographiée ?",
+  "o": [
+   "On écoute pas ce qu'il lit.",
+   "On n'écoute ce qu'il lit pas.",
+   "On n'écoute pas ce qu'il lit.",
+   "On n'en écoute pas ce qu'il lit."
+  ],
+  "a": 2,
+  "e": "La négation complète est « ne ... pas » : devant une voyelle, « ne » s'élide en « n' », qui ne s'entend pas après « on ». Pour vérifier, on remplace « on » par « il » : « il n'écoute pas ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/16573/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Conjugaison",
+  "q": "Mettez au singulier : « Des adolescents pâlissent et regardent devant eux. »",
+  "o": [
+   "Un adolescent pâlie et regarde devant lui.",
+   "Un adolescent pâlit et regardent devant lui.",
+   "Un adolescent pâlis et regarde devant lui.",
+   "Un adolescent pâlit et regarde devant lui."
+  ],
+  "a": 3,
+  "e": "« Pâlir » est un verbe du 2e groupe : 3e personne du singulier du présent en -it (il pâlit). « Pâlie » est un participe passé féminin, « pâlis » une 1re ou 2e personne. Le pronom « eux » devient « lui ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (étude de la langue, question 5a)",
+  "u": "https://devenirenseignant.gouv.fr/media/16573/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Mettez « L'automobile » au pluriel dans : « L'automobile qui nous porte s'arrête, insérée dans la foule qui se fige. »",
+  "o": [
+   "Les automobiles qui nous portent s'arrêtent, insérées dans la foule qui se fige.",
+   "Les automobiles qui nous porte s'arrêtent, insérées dans la foule qui se fige.",
+   "Les automobiles qui nous portent s'arrêtent, insérées dans la foule qui se figent.",
+   "Les automobiles qui nous portent s'arrêtent, inséré dans la foule qui se fige."
+  ],
+  "a": 0,
+  "e": "Les verbes et le participe qui se rapportent à « automobiles » passent au pluriel (portent, s'arrêtent, insérées). Mais « qui se fige » a pour antécédent « la foule », qui reste au singulier.",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (étude de la langue, question 5b)",
+  "u": "https://devenirenseignant.gouv.fr/media/16573/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe lexicale",
+  "q": "Quel adverbe est correctement écrit ?",
+  "o": [
+   "Prudament",
+   "Vaillemment",
+   "Prudemment",
+   "Avidemment"
+  ],
+  "a": 2,
+  "e": "Les adjectifs en -ent donnent des adverbes en -emment (prudent, prudemment), ceux en -ant des adverbes en -amment (vaillant, vaillamment). « Avide » ne se termine ni par -ant ni par -ent : on ajoute -ment, « avidement ».",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/16573/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe grammaticale",
+  "q": "Complétez : « ___ que soient vos raisons, je partirai. »",
+  "o": [
+   "Quelque",
+   "Quelles",
+   "Quel",
+   "Quelques"
+  ],
+  "a": 1,
+  "e": "Devant le verbe « être » au subjonctif, on écrit « quel que » en deux mots, et « quel » s'accorde avec le sujet (« vos raisons », féminin pluriel). « Quelque » en un mot se place devant un nom ou un adjectif.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/16582/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Une narratrice écrit : « J'étais ___ sans attendre de réponse. » (partir)",
+  "o": [
+   "parti",
+   "partis",
+   "partie",
+   "partit"
+  ],
+  "a": 2,
+  "e": "Avec l'auxiliaire « être », le participe passé s'accorde avec le sujet. Le « je » désigne une femme : « partie ». « Partit » est un passé simple.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/16582/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Il est improbable que quelqu'un ait reçu ma lettre, l'ait lu___ et compris___. »",
+  "o": [
+   "lu / compris",
+   "lus / compris",
+   "lue / comprise",
+   "lue / compris"
+  ],
+  "a": 2,
+  "e": "Avec « avoir », les participes s'accordent avec le COD placé avant, « l' », qui reprend « ma lettre » (féminin singulier) : « lue » et « comprise ». Le sujet « quelqu'un » ne commande pas l'accord.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/16582/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Connecteurs",
+  "q": "« On m'assurait que tout allait bien. Et rien n'allait. » Quel lien logique exprime ici « et » ?",
+  "o": [
+   "La cause",
+   "La conséquence",
+   "Le temps",
+   "L'opposition"
+  ],
+  "a": 3,
+  "e": "Les deux phrases se contredisent : « et » prend ici la valeur de « pourtant ». On peut réécrire : « On m'assurait que tout allait bien, alors que rien n'allait. »",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/16582/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Voix active et passive",
+  "q": "Mettez à la voix active : « Le secret avait été gardé par mon grand-père. »",
+  "o": [
+   "Mon grand-père gardait le secret.",
+   "Mon grand-père avait gardé le secret.",
+   "Mon grand-père a gardé le secret.",
+   "Mon grand-père eut gardé le secret."
+  ],
+  "a": 1,
+  "e": "Le complément d'agent devient sujet, le sujet devient COD, et le temps est conservé : le plus-que-parfait passif (« avait été gardé ») devient un plus-que-parfait actif (« avait gardé »).",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/16582/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe lexicale",
+  "q": "Quel mot est correctement orthographié ?",
+  "o": [
+   "Inbuvable",
+   "Inpossible",
+   "Imbuvable",
+   "Imabordable"
+  ],
+  "a": 2,
+  "e": "Le préfixe négatif in- devient im- devant b, p, m (imbuvable, impossible) mais reste in- devant une voyelle (inabordable).",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (lexique, question 1b)",
+  "u": "https://devenirenseignant.gouv.fr/media/16582/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Dans « téléphone », que signifie l'élément grec « télé- » ?",
+  "o": [
+   "Image",
+   "Loin, à distance",
+   "Voix",
+   "Écrire"
+  ],
+  "a": 1,
+  "e": "« Télé- » vient du grec « têle », loin : le téléphone transmet la voix (« phônê ») à distance. On le retrouve dans télescope ou télévision.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (lexique, question 1a)",
+  "u": "https://devenirenseignant.gouv.fr/media/16702/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Lequel de ces mots ne contient pas l'élément grec « -phon- » (voix, son) ?",
+  "o": [
+   "Téléphérique",
+   "Francophone",
+   "Phonétique",
+   "Microphone"
+  ],
+  "a": 0,
+  "e": "Microphone, francophone et phonétique contiennent « phônê », la voix ou le son. « Téléphérique » combine « télé- » et le grec « pherein », porter.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (lexique, question 1b)",
+  "u": "https://devenirenseignant.gouv.fr/media/16702/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Sens en contexte",
+  "q": "Des brebis gagnent des pentes étroites « en funambules ». Que suggère ce mot ?",
+  "o": [
+   "Qu'elles avancent en troupeau serré",
+   "Qu'elles reculent devant l'obstacle",
+   "Qu'elles avancent en bêlant",
+   "Qu'elles se déplacent en équilibre, comme des acrobates sur un passage étroit"
+  ],
+  "a": 3,
+  "e": "Le funambule est l'acrobate qui marche sur une corde tendue : par métaphore, les brebis progressent en équilibre sur des passages étroits et dangereux.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (lexique, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/16702/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Figures de style",
+  "q": "Dans « Il retrouvait le temps élastique des longs voyages », quelle figure de style l'adjectif « élastique » crée-t-il ?",
+  "o": [
+   "Une anaphore",
+   "Une litote",
+   "Une métaphore",
+   "Une comparaison"
+  ],
+  "a": 2,
+  "e": "Le temps est présenté comme une matière qui s'étire, sans outil de comparaison : c'est une métaphore, qui suggère des heures qui semblent s'allonger.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (lexique, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/16702/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Sens en contexte",
+  "q": "Dans « Ils installèrent un camp éphémère », quel est l'antonyme de « éphémère » ?",
+  "o": [
+   "Passager",
+   "Provisoire",
+   "Durable",
+   "Fugace"
+  ],
+  "a": 2,
+  "e": "« Éphémère » signifie « qui dure peu » : son antonyme est « durable » (ou permanent). Les trois autres mots en sont des synonymes, piège fréquent dans ce type d'exercice.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (lexique, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/16702/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "Dans « L'eau bout à cent degrés », quelle est la valeur du présent ?",
+  "o": [
+   "Présent d'énonciation",
+   "Présent de narration",
+   "Présent à valeur de futur proche",
+   "Présent de vérité générale"
+  ],
+  "a": 3,
+  "e": "L'énoncé est vrai en tout temps, indépendamment du moment où on le prononce : c'est un présent de vérité générale (ou gnomique). Le présent d'énonciation renvoie seulement au moment où l'on parle.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (étude de la langue, question 1a)",
+  "u": "https://devenirenseignant.gouv.fr/media/13644/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "Dans « Écrire, c'est entrer dans une armée imaginaire, où l'on serait à la fois général et soldat », quelle est la valeur du conditionnel « serait » ?",
+  "o": [
+   "Futur dans le passé",
+   "Politesse",
+   "Fait imaginaire, hypothétique",
+   "Information rapportée non vérifiée"
+  ],
+  "a": 2,
+  "e": "Le conditionnel situe le fait dans un monde fictif (« une armée imaginaire ») : il exprime l'imaginaire, l'hypothèse. Aucun verbe au passé n'appelle ici un futur dans le passé.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (étude de la langue, question 1b)",
+  "u": "https://devenirenseignant.gouv.fr/media/13644/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Ponctuation",
+  "q": "Dans « Le récit m'échappe, il attend, ailleurs », quel est le rôle de la première virgule ?",
+  "o": [
+   "Elle isole une apostrophe",
+   "Elle sépare le sujet de son verbe",
+   "Elle encadre une incise",
+   "Elle juxtapose deux propositions indépendantes"
+  ],
+  "a": 3,
+  "e": "La virgule sépare deux propositions indépendantes sans mot de liaison (« Le récit m'échappe » et « il attend ») : c'est une juxtaposition. La seconde virgule, elle, détache le complément « ailleurs ».",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/13644/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Elle passe trois semaines à la montagne », quelle est la fonction de « trois semaines » ?",
+  "o": [
+   "Complément d'objet direct",
+   "Complément d'agent",
+   "Attribut du sujet",
+   "Complément du nom"
+  ],
+  "a": 0,
+  "e": "Avec « passer » au sens d'« employer son temps », la durée est COD : on peut la pronominaliser (« elle les passe à la montagne ») et le participe s'accorde (« les semaines qu'elle a passées »). Avec « dormir trois heures », en revanche, la durée est complément circonstanciel.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/13644/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Dans quelle phrase faut-il écrire « ce pendant » en deux mots ?",
+  "o": [
+   "Elle a écrit chaque soir, et ___ des années.",
+   "Il pleuvait, ___ nous sommes sortis.",
+   "Le chemin était long, ___ personne ne se plaignait.",
+   "Il était tard ; ___, la fête continuait."
+  ],
+  "a": 0,
+  "e": "« Et ce pendant des années » signifie « et cela pendant des années » : « ce » est un pronom démonstratif suivi de la préposition « pendant ». Dans les autres phrases, il faut l'adverbe d'opposition « cependant », en un mot.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/13644/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Dans « apatride », que marque le préfixe « a- » ?",
+  "o": [
+   "La privation, l'absence",
+   "La direction (vers)",
+   "La répétition",
+   "L'intensité"
+  ],
+  "a": 0,
+  "e": "Un apatride est une personne sans patrie : le a- privatif, d'origine grecque, marque l'absence, comme dans « anormal » ou « asymétrique ». Il ne faut pas le confondre avec le a- de direction de « aménager ».",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/13644/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "« Hier, je marche dans la forêt quand soudain un loup surgit devant moi. » Quelle est la valeur du présent ?",
+  "o": [
+   "Présent de vérité générale",
+   "Présent d'habitude",
+   "Présent d'énonciation",
+   "Présent de narration"
+  ],
+  "a": 3,
+  "e": "Les faits sont passés (« Hier ») mais racontés au présent pour les rendre plus vivants : c'est un présent de narration (ou historique). Le présent d'énonciation renvoie au moment même où l'on parle.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/13653/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Complétez : « Ces traces, que produis___ les loups en meute, restent longtemps visibles. »",
+  "o": [
+   "produisent",
+   "produit",
+   "produisait",
+   "produis"
+  ],
+  "a": 0,
+  "e": "Dans la relative, le sujet de « produire » est inversé : « les loups produisent ces traces ». Le verbe s'accorde donc au pluriel avec « les loups », et non avec le pronom relatif « que », qui est COD.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (étude de la langue, question 3b)",
+  "u": "https://devenirenseignant.gouv.fr/media/13653/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « une habitude partagée par plusieurs espèces », quelle est la fonction de « par plusieurs espèces » ?",
+  "o": [
+   "Complément circonstanciel de moyen",
+   "Complément du nom « habitude »",
+   "Complément d'objet indirect",
+   "Complément d'agent du participe « partagée »"
+  ],
+  "a": 3,
+  "e": "Le participe passé « partagée » a un sens passif, et « par plusieurs espèces » désigne qui fait l'action (plusieurs espèces partagent cette habitude) : c'est un complément d'agent.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/13653/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Connecteurs",
+  "q": "« La piste était fraîche : les loups étaient passés le matin même. » Quelle conjonction de coordination peut remplacer les deux-points sans changer le sens ?",
+  "o": [
+   "car",
+   "donc",
+   "mais",
+   "or"
+  ],
+  "a": 0,
+  "e": "La seconde proposition explique la première : les deux-points ont ici une valeur de cause, que rend la conjonction « car ». « Donc » inverserait le rapport en introduisant une conséquence.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (étude de la langue, question 5b)",
+  "u": "https://devenirenseignant.gouv.fr/media/13653/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Comment sont reliées les deux propositions de « La neige a commencé à tomber, et nous sommes arrivés à la combe » ?",
+  "o": [
+   "Elles sont juxtaposées",
+   "Elles sont coordonnées",
+   "La seconde est subordonnée à la première",
+   "La première est subordonnée à la seconde"
+  ],
+  "a": 1,
+  "e": "La conjonction de coordination « et » relie deux propositions indépendantes : elles sont coordonnées. La virgule placée devant « et » ne suffit pas à en faire une juxtaposition.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (étude de la langue, question 5a)",
+  "u": "https://devenirenseignant.gouv.fr/media/13653/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Familles de mots",
+  "q": "Lequel de ces mots n'appartient pas à la famille de « tourner » ?",
+  "o": [
+   "Contourner",
+   "Détour",
+   "Tournoyer",
+   "Tourterelle"
+  ],
+  "a": 3,
+  "e": "« Contourner », « détour » et « tournoyer » se forment sur le radical « tourn- », avec l'idée de mouvement circulaire. « Tourterelle » vient du nom latin de l'oiseau (turtur), sans rapport avec le verbe.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/13653/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Camille m'explique s'être spécialisé___ dans les objets d'art. » (Camille est une femme)",
+  "o": [
+   "spécialisée",
+   "spécialisés",
+   "spécialisé",
+   "spécialiser"
+  ],
+  "a": 0,
+  "e": "Le verbe pronominal « se spécialiser » se conjugue avec « être » et son participe s'accorde avec le sujet, ici une femme. L'infinitif passé « s'être spécialisée » a le même sujet que « explique ».",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/13662/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Les efforts qu'il a ___ pour réussir étaient immenses. » (falloir)",
+  "o": [
+   "fallus",
+   "falloir",
+   "fallue",
+   "fallu"
+  ],
+  "a": 3,
+  "e": "Le participe passé d'un verbe impersonnel reste toujours invariable : « qu' » n'est pas COD du verbe « falloir ». On écrit donc « les efforts qu'il a fallu ».",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/13662/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Complétez : « Demain, je ___ voir l'atelier. » (aller)",
+  "o": [
+   "irais",
+   "irait",
+   "irai",
+   "iré"
+  ],
+  "a": 2,
+  "e": "« Demain » situe l'action dans l'avenir de façon certaine : futur simple, 1re personne en -ai, « j'irai ». « J'irais » est le conditionnel. Pour vérifier, on passe à « nous » : nous irons (futur), nous irions (conditionnel).",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/13662/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « ce bois dont les fabricants ne veulent pas », quelle est la fonction de « dont » ?",
+  "o": [
+   "Complément du nom",
+   "Complément circonstanciel de cause",
+   "Complément d'objet direct de « veulent »",
+   "Complément d'objet indirect de « veulent »"
+  ],
+  "a": 3,
+  "e": "On rétablit : « les fabricants ne veulent pas de ce bois ». « Vouloir de quelque chose » se construit avec la préposition « de » : « dont » est COI. Le piège est le « dont » complément du nom, très fréquent.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/13662/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "Quelle phrase transforme « La grâce de ces pièces me fascine » à la forme passive et négative, de type interrogatif ?",
+  "o": [
+   "La grâce de ces pièces ne me fascine-t-elle pas ?",
+   "Ne suis-je pas fasciné par la grâce de ces pièces ?",
+   "Je ne suis pas fasciné par la grâce de ces pièces.",
+   "N'ai-je pas été fasciné par la grâce de ces pièces ?"
+  ],
+  "a": 1,
+  "e": "Au passif, le COD « me » devient sujet « je » et le sujet devient complément d'agent ; le présent est conservé, la négation encadre l'auxiliaire et l'inversion du sujet marque l'interrogation. La dernière proposition change le temps.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/13662/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe lexicale",
+  "q": "Pourquoi « irremplaçable » s'écrit-il avec deux r ?",
+  "o": [
+   "Parce que le radical « remplaç- » double sa consonne",
+   "Parce qu'une règle impose deux consonnes après i",
+   "Parce que le mot vient d'un verbe en -rrer",
+   "Parce que le préfixe in- devient ir- devant un r"
+  ],
+  "a": 3,
+  "e": "Le préfixe négatif in- s'assimile à la consonne qui suit : il devient ir- devant r (irréel, irresponsable), il- devant l (illisible), im- devant m, b, p.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/13662/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe grammaticale",
+  "q": "Quel est le pluriel correct de « un aller-retour » ?",
+  "o": [
+   "des allers-retours",
+   "des allés-retours",
+   "des aller-retours",
+   "des allers-retour"
+  ],
+  "a": 0,
+  "e": "Les deux éléments de ce nom composé sont des noms (un aller, un retour) : ils prennent tous deux la marque du pluriel, « des allers-retours ».",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/13833/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Il essaierait de lui expliquer qu'elle avait tort », quelles sont la nature et la fonction de « qu'elle avait tort » ?",
+  "o": [
+   "Subordonnée relative, complément de l'antécédent",
+   "Subordonnée circonstancielle de cause",
+   "Subordonnée complétive, COD de « expliquer »",
+   "Subordonnée interrogative indirecte, COI"
+  ],
+  "a": 2,
+  "e": "« Que » n'a pas d'antécédent ni de fonction dans la subordonnée : c'est une conjonction, et la proposition complète le verbe « expliquer » (expliquer quelque chose), dont elle est COD. On peut la remplacer par « cela ».",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/13833/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Connecteurs",
+  "q": "« Le pingouin avait faim. Il tournait en rond. » Quelle phrase complexe utilise une conjonction de subordination et garde le même lien logique ?",
+  "o": [
+   "Le pingouin avait faim, donc il tournait en rond.",
+   "Le pingouin, qui tournait en rond, avait faim.",
+   "Le pingouin avait faim, mais il tournait en rond.",
+   "Comme le pingouin avait faim, il tournait en rond."
+  ],
+  "a": 3,
+  "e": "La faim est la cause de l'agitation : « comme » introduit une subordonnée de cause placée en tête. « Donc » exprime bien le lien, mais c'est une conjonction de coordination ; la relative ne marque aucun lien logique explicite.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (étude de la langue, question 5b)",
+  "u": "https://devenirenseignant.gouv.fr/media/13833/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Dans « Les ailes écartées, il faisait des allers-retours », quelle est la nature de « Les ailes écartées » ?",
+  "o": [
+   "Proposition subordonnée relative",
+   "Groupe nominal sujet",
+   "Proposition subordonnée participiale",
+   "Proposition subordonnée infinitive"
+  ],
+  "a": 2,
+  "e": "Le participe « écartées » a son propre sujet, « les ailes », distinct de celui de la principale (« il ») : c'est une proposition participiale (construction absolue), complément circonstanciel de manière.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/13833/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "Dans un récit au passé simple, « L'oiseau avait un éclat dans l'œil qui signifiait sa joie », quelle est la valeur de l'imparfait ?",
+  "o": [
+   "Action de premier plan, ponctuelle",
+   "Description, arrière-plan du récit",
+   "Habitude dans le présent",
+   "Hypothèse"
+  ],
+  "a": 1,
+  "e": "L'imparfait présente le fait sans limites nettes, comme un décor ou une description : il constitue l'arrière-plan, alors que le passé simple porte les actions de premier plan.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/13833/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Combien de préfixes contient le mot « insurmontable » ?",
+  "o": [
+   "Aucun",
+   "Un : in-",
+   "Deux : in- et sur-",
+   "Trois : in-, sur- et -able"
+  ],
+  "a": 2,
+  "e": "« In- » (négation) s'ajoute à « surmontable », lui-même formé de sur- + monter + -able. « -able » est un suffixe, pas un préfixe : il se place après le radical.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/13833/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Temps et modes",
+  "q": "Dans « Un jour, dans une famille, est né un enfant », comment analyser « est né » ?",
+  "o": [
+   "Présent de l'indicatif, voix passive",
+   "Présent de l'indicatif, voix active",
+   "Plus-que-parfait de l'indicatif",
+   "Passé composé de l'indicatif, voix active"
+  ],
+  "a": 3,
+  "e": "« Naître » se conjugue avec l'auxiliaire « être » aux temps composés : « est né » est un passé composé actif (aucun complément d'agent n'est possible). Le piège est d'y voir un présent passif sur le modèle de « est aimé ».",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7556/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe grammaticale",
+  "q": "Dans « et l'on pouvait entendre les soupirs », quel est le rôle de « l' » ?",
+  "o": [
+   "Lettre euphonique sans fonction grammaticale",
+   "Pronom personnel complément",
+   "Article défini élidé devant un nom",
+   "Pronom démonstratif"
+  ],
+  "a": 0,
+  "e": "« L' » devant « on » est une trace ancienne de l'article, conservée aujourd'hui pour l'euphonie, surtout après « et », « si », « où ». Il n'a ni sens propre ni fonction grammaticale.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/7556/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Il aime ces vies et il y prend part », quelles sont la nature et la fonction de « y » ?",
+  "o": [
+   "Adverbe de lieu, complément circonstanciel",
+   "Pronom personnel (adverbial), complément de « prend part »",
+   "Pronom relatif, sujet",
+   "Préposition"
+  ],
+  "a": 1,
+  "e": "« Y » remplace « à ces vies » (prendre part à quelque chose) : c'est un pronom, complément indirect de la locution verbale. Il n'indique pas un lieu ici.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/7556/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Complétez : « Ces bébés sentaient ___ la fleur d'oranger. »",
+  "o": [
+   "bon",
+   "bons",
+   "bonnes",
+   "bonne"
+  ],
+  "a": 0,
+  "e": "Dans « sentir bon », « bon » est employé comme adverbe (il modifie le verbe, comme dans « sentir fort ») : il reste invariable.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/7556/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « des routes de montagne », quelles sont la nature et la fonction de « de montagne » ?",
+  "o": [
+   "Adjectif, épithète de « routes »",
+   "Groupe nominal, complément circonstanciel de lieu",
+   "Groupe nominal prépositionnel, complément du nom « routes »",
+   "Groupe prépositionnel, complément d'objet indirect"
+  ],
+  "a": 2,
+  "e": "Le groupe introduit par la préposition « de » précise le nom « routes » à l'intérieur du groupe nominal : c'est un complément du nom, expansion d'une autre nature qu'un adjectif épithète comme « sinueuses ».",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (étude de la langue, question 5b)",
+  "u": "https://devenirenseignant.gouv.fr/media/7556/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Ce métier m'obligeait à partir », quelle est la fonction de « m' » ?",
+  "o": [
+   "Complément d'objet direct",
+   "Complément d'objet indirect",
+   "Complément d'attribution",
+   "Sujet de « partir »"
+  ],
+  "a": 0,
+  "e": "On dit « obliger quelqu'un à faire » : la personne obligée est COD (« il oblige Paul »). Le piège est de voir un COI à cause de la préposition « à », qui introduit en fait l'infinitif.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Personne, je suppose, ne peut leur demander cela », quelle est la nature de « Personne » ?",
+  "o": [
+   "Nom commun",
+   "Déterminant indéfini",
+   "Pronom indéfini",
+   "Adverbe de négation"
+  ],
+  "a": 2,
+  "e": "Sans déterminant et accompagné de « ne », « personne » signifie « aucun être humain » : c'est un pronom indéfini, ici sujet. Le nom commun « une personne » est féminin et s'emploie avec un déterminant.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Laquelle de ces phrases emploie correctement « peut-être » ou « peut être » ?",
+  "o": [
+   "Sa tâche est peut être plus grande.",
+   "Sa tâche peut-être plus grande.",
+   "Sa tâche est peut-être plus grande.",
+   "Sa tâche est peu être plus grande."
+  ],
+  "a": 2,
+  "e": "« Peut-être », avec un trait d'union, est un adverbe (on peut le remplacer par « sans doute »). « Peut être » en deux mots est le verbe « pouvoir » suivi de « être » (« elle peut être grande »).",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Ceux qui ont revendiqu___ ce droit se sont tromp___. »",
+  "o": [
+   "revendiqué / trompés",
+   "revendiqués / trompés",
+   "revendiqué / trompé",
+   "revendiqués / trompé"
+  ],
+  "a": 0,
+  "e": "Avec « avoir », pas d'accord, car le COD « ce droit » est placé après. « Se tromper » est essentiellement pronominal : son participe s'accorde avec le sujet « ceux » (masculin pluriel).",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Énonciation",
+  "q": "Dans « Sans doute viendra-t-il demain », quel élément exprime le jugement du locuteur sur la certitude de l'énoncé (modalisateur) ?",
+  "o": [
+   "« viendra »",
+   "« il »",
+   "« Sans doute »",
+   "« demain »"
+  ],
+  "a": 2,
+  "e": "« Sans doute » indique que le locuteur juge le fait probable mais non certain : c'est un modalisateur. « Demain » est un déictique de temps, autre marque d'énonciation, mais il ne nuance pas la certitude.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Temps et modes",
+  "q": "Complétez : « Bien que chaque génération se ___ vouée à refaire le monde, la mienne sait qu'elle ne le refera pas. » (croire)",
+  "o": [
+   "croit",
+   "croyait",
+   "croirait",
+   "croie"
+  ],
+  "a": 3,
+  "e": "« Bien que » exprime la concession et impose le subjonctif : « qu'elle se croie ». « Croit » est l'indicatif, piège fréquent car la prononciation est identique.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 6b)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Ta génération rêve, la mienne doute », quelle est la nature de « la mienne » ?",
+  "o": [
+   "Pronom possessif",
+   "Déterminant possessif",
+   "Pronom personnel",
+   "Adjectif qualificatif"
+  ],
+  "a": 0,
+  "e": "« La mienne » remplace un groupe nominal (« ma génération ») : c'est un pronom possessif. Le déterminant possessif (« ma ») accompagne un nom.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/7565/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Fonctions",
+  "q": "Dans « Fatiguée, elle l'est souvent », quelle est la fonction de « l' » ?",
+  "o": [
+   "Complément d'objet direct",
+   "Sujet",
+   "Attribut du sujet",
+   "Complément circonstanciel"
+  ],
+  "a": 2,
+  "e": "« L' » est un pronom neutre qui reprend l'adjectif « fatiguée » après le verbe « être » : il est attribut du sujet. « Être » n'a jamais de COD.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7574/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Homophones",
+  "q": "Dans quelle phrase « même » est-il un adverbe invariable ?",
+  "o": [
+   "Les enfants eux-mêmes ont ri.",
+   "Ils portent les mêmes vêtements.",
+   "Ce sont les mêmes qu'hier.",
+   "Même les enfants ont ri."
+  ],
+  "a": 3,
+  "e": "Placé devant le groupe nominal avec le sens de « aussi, jusqu'à », « même » est un adverbe invariable. Joint à un pronom (« eux-mêmes ») ou employé comme déterminant ou pronom (« les mêmes »), il s'accorde.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/7574/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Ponctuation",
+  "q": "Dans un récit qui imite le cours de la pensée, à quoi servent surtout les points de suspension répétés ?",
+  "o": [
+   "À marquer la fin d'une question",
+   "À indiquer un dialogue",
+   "À signaler une pensée interrompue, hésitante ou inachevée",
+   "À introduire une énumération"
+  ],
+  "a": 2,
+  "e": "Les points de suspension laissent la phrase en suspens : ils traduisent l'hésitation, l'émotion ou une pensée qui se poursuit sans s'achever. Ce sont les deux-points, et non les points de suspension, qui introduisent une énumération.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/7574/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "Dans « J'espérais qu'un miracle se produirait au dernier moment », quelle est la valeur du conditionnel « se produirait » ?",
+  "o": [
+   "Futur dans le passé",
+   "Politesse",
+   "Irréel du présent",
+   "Information incertaine rapportée"
+  ],
+  "a": 0,
+  "e": "Le fait est postérieur au moment passé exprimé par « j'espérais » : le conditionnel joue le rôle d'un futur vu du passé. Au présent, on dirait « j'espère qu'un miracle se produira ».",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/7574/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Rien ne leur arrive », quelles sont la nature et la fonction de « leur » ?",
+  "o": [
+   "Déterminant possessif, sans fonction",
+   "Pronom possessif, sujet",
+   "Pronom personnel, complément d'objet indirect",
+   "Pronom personnel, complément d'objet direct"
+  ],
+  "a": 2,
+  "e": "« Leur » est placé devant le verbe et remplace « à ces gens » (arriver à quelqu'un) : pronom personnel COI, invariable. Le déterminant possessif précède un nom (leur maison).",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/7574/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Connecteurs",
+  "q": "« Prends ton parapluie, il pleut. » Quelle réécriture fait apparaître le lien logique entre les deux propositions juxtaposées ?",
+  "o": [
+   "Prends ton parapluie, donc il pleut.",
+   "Prends ton parapluie, or il pleut.",
+   "Prends ton parapluie, mais il pleut.",
+   "Prends ton parapluie, car il pleut."
+  ],
+  "a": 3,
+  "e": "La seconde proposition justifie l'ordre donné : c'est un rapport de cause, explicité par « car ». « Donc » inverserait la relation en faisant de la pluie une conséquence.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (étude de la langue, question 7)",
+  "u": "https://devenirenseignant.gouv.fr/media/7574/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "Dans « Comme il l'avait dit à l'abbé, il apprenait vite », quelle est la valeur du plus-que-parfait « avait dit » ?",
+  "o": [
+   "Antériorité par rapport à un fait passé",
+   "Futur dans le passé",
+   "Habitude dans le présent",
+   "Irréel du passé"
+  ],
+  "a": 0,
+  "e": "Le plus-que-parfait présente une action accomplie avant une autre action passée (« apprenait ») : il marque l'antériorité dans le passé.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Que m'apprenez-vous d'abord ? », quelles sont la nature et la fonction de « Que » ?",
+  "o": [
+   "Pronom interrogatif, COD de « apprenez »",
+   "Pronom relatif, COD",
+   "Conjonction de subordination, sans fonction",
+   "Adverbe exclamatif"
+  ],
+  "a": 0,
+  "e": "« Que » ouvre une interrogation partielle et représente ce sur quoi porte la question (vous m'apprenez quoi ?) : pronom interrogatif, complément d'objet direct.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (étude de la langue, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe grammaticale",
+  "q": "Dans « ne fût-ce que pour ne pas vous ennuyer », pourquoi « fût » porte-t-il un accent circonflexe ?",
+  "o": [
+   "C'est un passé simple de l'indicatif",
+   "C'est un participe passé",
+   "C'est un imparfait du subjonctif",
+   "C'est un conditionnel"
+  ],
+  "a": 2,
+  "e": "La tournure figée « ne fût-ce que » (même si ce n'était que) emploie le subjonctif imparfait de « être », marqué par l'accent circonflexe. Le passé simple s'écrit « fut », sans accent.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Il savait déjà les deux langues, qu'il avait appris___ en voyage. »",
+  "o": [
+   "appris",
+   "apprises",
+   "apprise",
+   "apprit"
+  ],
+  "a": 1,
+  "e": "Le pronom relatif « qu' » est COD de « avait appris » et reprend « les deux langues », féminin pluriel, placé avant le verbe : le participe s'accorde, « apprises ».",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Ponctuation",
+  "q": "Dans « Voyons, dit Dantès, que m'apprenez-vous d'abord ? », quel est le rôle des virgules qui entourent « dit Dantès » ?",
+  "o": [
+   "Elles séparent les éléments d'une énumération",
+   "Elles encadrent une proposition incise",
+   "Elles isolent une apostrophe",
+   "Elles détachent un complément circonstanciel"
+  ],
+  "a": 1,
+  "e": "« Dit Dantès » est une proposition incise, avec inversion du sujet, qui indique qui parle : les virgules l'encadrent à l'intérieur des paroles rapportées.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Orthographe lexicale",
+  "q": "Pourquoi écrit-on « égoïste » avec un tréma ?",
+  "o": [
+   "Pour marquer une voyelle longue",
+   "Pour distinguer le mot d'un homonyme",
+   "Pour indiquer que « o » et « i » se prononcent séparément",
+   "Parce que le mot vient de l'allemand"
+  ],
+  "a": 2,
+  "e": "Le tréma signale que la voyelle se prononce séparément de la précédente : é-go-ïste, et non « oi » comme dans « roi ».",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Sens en contexte",
+  "q": "Dans « Les deux prisonniers arrêtèrent un plan d'éducation », que signifie « arrêtèrent » ?",
+  "o": [
+   "Fixèrent, décidèrent",
+   "Interrompirent",
+   "Emprisonnèrent",
+   "Abandonnèrent"
+  ],
+  "a": 0,
+  "e": "Le verbe « arrêter » a ici le sens de « fixer, décider » (arrêter une date, un plan). Le sens courant d'interrompre est le piège.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (lexique, question 2)",
+  "u": "https://devenirenseignant.gouv.fr/media/7547/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Nature des mots",
+  "q": "Dans « Un oiseau sortit de l'herbe », quelle est la nature de « de l' » ?",
+  "o": [
+   "Article partitif",
+   "Pronom personnel",
+   "Article indéfini",
+   "Préposition « de » suivie de l'article défini élidé"
+  ],
+  "a": 3,
+  "e": "« De l'herbe » indique ici le lieu d'origine (sortir de quelque part) : « de » est une préposition, suivie de l'article défini « l' ». Ce n'est pas un partitif comme dans « manger de l'herbe », qui désigne une quantité indéterminée.",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 1c)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Quelle phrase respecte l'usage écrit soutenu ?",
+  "o": [
+   "Ce sont mes amis.",
+   "C'est mes amis.",
+   "Ce sont mon ami.",
+   "C'étais mes amis."
+  ],
+  "a": 0,
+  "e": "Devant un attribut au pluriel de 3e personne, le présentatif s'accorde à l'écrit soutenu : « ce sont », « c'étaient ». « C'est mes amis » relève de l'oral familier.",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 2a)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Participe passé",
+  "q": "Complétez : « Elles se sont lav___ les mains. »",
+  "o": [
+   "lavé",
+   "lavées",
+   "lavés",
+   "laver"
+  ],
+  "a": 0,
+  "e": "Le COD est « les mains », placé après le verbe ; « se » est complément indirect (laver les mains à soi). Le participe reste donc invariable. On écrirait en revanche « elles se sont lavées », sans autre complément.",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 2b)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Complétez : « C'est moi qui ___ le plus de pitié pour elles. » (avoir)",
+  "o": [
+   "a",
+   "as",
+   "ai",
+   "ont"
+  ],
+  "a": 2,
+  "e": "Le pronom relatif « qui » prend la personne de son antécédent « moi » : le verbe est à la 1re personne, « qui ai ».",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 2d)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Valeurs des temps",
+  "q": "« Je cherchai : il y eut un léger mouvement dans le buisson. C'était un lièvre. » Quelle opposition marquent ici le passé simple et l'imparfait ?",
+  "o": [
+   "Actions de premier plan et arrière-plan descriptif",
+   "Action passée et action présente",
+   "Action certaine et action hypothétique",
+   "Action rapportée et action vécue"
+  ],
+  "a": 0,
+  "e": "Le passé simple présente les actions ponctuelles qui font avancer le récit (premier plan) ; l'imparfait installe une description ou un commentaire (arrière-plan).",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "Comment caractériser la phrase « La plainte encore. » ?",
+  "o": [
+   "Phrase verbale simple",
+   "Phrase non verbale (nominale)",
+   "Phrase complexe",
+   "Proposition subordonnée isolée"
+  ],
+  "a": 1,
+  "e": "Elle ne comporte aucun verbe conjugué et s'organise autour du nom « plainte » : c'est une phrase non verbale, ou nominale. Elle produit un effet de brièveté et d'insistance.",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 5)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Ponctuation",
+  "q": "Dans un dialogue de roman, que signale le tiret placé en début de ligne ?",
+  "o": [
+   "Une incise du narrateur",
+   "Une citation d'un autre livre",
+   "Un changement d'interlocuteur",
+   "La fin d'une réplique"
+  ],
+  "a": 2,
+  "e": "Dans un dialogue, le tiret indique la prise de parole d'un nouveau personnage. Les guillemets, eux, ouvrent et ferment l'ensemble des paroles rapportées.",
+  "s": "Exemple de sujet CRPE bac+5, français n°1 (étude de la langue, question 6)",
+  "u": "https://devenirenseignant.gouv.fr/media/307/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Quel énoncé indique à coup sûr que la personne qui dit « je » est une femme ?",
+  "o": [
+   "Je me suis demandé où aller.",
+   "Je suis tombée dans l'escalier.",
+   "J'ai été surpris par le bruit.",
+   "J'ai fermé la porte."
+  ],
+  "a": 1,
+  "e": "Avec l'auxiliaire « être », le participe s'accorde avec le sujet : « tombée » révèle un « je » féminin. Dans « je me suis demandé », « se » est complément indirect et le participe ne s'accorde pas : ce n'est donc pas un indice.",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (étude de la langue, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Accords",
+  "q": "Complétez : « Tout ce monde qui ___ dans le parking attendait. » (s'entasser)",
+  "o": [
+   "s'entasses",
+   "s'entassent",
+   "s'entasse",
+   "s'entassant"
+  ],
+  "a": 2,
+  "e": "« Qui » reprend « ce monde », nom collectif au singulier : le verbe se met au singulier, même si le sens évoque une foule.",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (étude de la langue, question 2d)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Énonciation",
+  "q": "Dans « Au bout du parking, un automate vous guette », quelle est la valeur du pronom « vous » ?",
+  "o": [
+   "Il désigne un groupe précis de personnes présentes",
+   "Il a une valeur générique qui implique le lecteur",
+   "Il s'agit d'un vouvoiement adressé à un personnage",
+   "Il remplace le narrateur seul"
+  ],
+  "a": 1,
+  "e": "« Vous » désigne ici n'importe quel conducteur, et le lecteur s'y trouve inclus : c'est un emploi générique, qui rapproche la situation du lecteur.",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (étude de la langue, question 3)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Propositions",
+  "q": "Comment sont reliées les propositions de « J'essaie de la raconter, je ne me fais pas comprendre, on ne m'écoute pas » ?",
+  "o": [
+   "Elles sont coordonnées",
+   "Elles forment une seule proposition",
+   "Elles sont subordonnées les unes aux autres",
+   "Elles sont juxtaposées"
+  ],
+  "a": 3,
+  "e": "Trois propositions indépendantes se suivent, séparées seulement par des virgules, sans conjonction : elles sont juxtaposées.",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (étude de la langue, question 4)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "Laquelle de ces phrases est une interrogation partielle ?",
+  "o": [
+   "Où as-tu garé la voiture ?",
+   "Est-ce que tu as fini ?",
+   "Viens-tu avec nous ?",
+   "Tu as trouvé une place ?"
+  ],
+  "a": 0,
+  "e": "L'interrogation partielle porte sur un élément de la phrase et commence par un mot interrogatif (où, qui, quand...) : on ne peut pas y répondre par oui ou non. Les trois autres sont des interrogations totales.",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (étude de la langue, question 7)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Types et formes de phrases",
+  "q": "« Qui pourrait supporter un tel endroit ? » Quelle est la valeur de cette question ?",
+  "o": [
+   "Une vraie demande d'information",
+   "Une interrogation indirecte",
+   "Une question rhétorique, qui équivaut à une affirmation",
+   "Un ordre atténué"
+  ],
+  "a": 2,
+  "e": "La question n'attend pas de réponse : elle signifie « personne ne pourrait supporter un tel endroit ». C'est une question rhétorique (ou oratoire).",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (étude de la langue, question 7)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Français",
+  "t": "Formation des mots",
+  "q": "Dans « inquiétude », que forme le suffixe « -ude » ?",
+  "o": [
+   "Un nom d'état ou de qualité, à partir d'un adjectif",
+   "Un verbe d'action",
+   "Un adjectif",
+   "Un adverbe"
+  ],
+  "a": 0,
+  "e": "« -ude » forme des noms d'état à partir d'adjectifs : inquiet, inquiétude ; seul, solitude ; certain, certitude. « Inquiet » est lui-même formé de in- et du latin « quietus », calme.",
+  "s": "Exemple de sujet CRPE bac+5, français n°2 (lexique, question 1)",
+  "u": "https://devenirenseignant.gouv.fr/media/310/download",
+  "k": "les deux"
+ }
+]

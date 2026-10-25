@@ -1,0 +1,2338 @@
+[
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "Dans une école de 400 élèves, 35 % pratiquent un sport, 80 jouent d'un instrument, et 75 % des musiciens pratiquent aussi un sport. On choisit un élève au hasard. Quelle est la probabilité qu'il pratique au moins l'une des deux activités ?",
+  "o": [
+   "2/5",
+   "11/20",
+   "3/20",
+   "1/2"
+  ],
+  "a": 0,
+  "e": "Sport : 0,35 × 400 = 140 ; musique : 80 ; les deux : 0,75 × 80 = 60. Au moins une : 140 + 80 - 60 = 160, soit 160/400 = 2/5.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "Même école : 140 sportifs, 80 musiciens, 60 élèves font les deux. On choisit au hasard un élève qui pratique un sport. Quelle est la probabilité qu'il joue aussi d'un instrument ?",
+  "o": [
+   "3/20",
+   "3/4",
+   "3/7",
+   "1/5"
+  ],
+  "a": 2,
+  "e": "On se restreint aux 140 sportifs, dont 60 sont musiciens : 60/140 = 3/7. La réponse 3/4 correspond à 60/80, c'est-à-dire l'inverse de la condition.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Un magasin propose : « pour un article acheté, le deuxième à -40 % ». Pour un client qui achète deux articles identiques, quelle est la réduction moyenne par article ?",
+  "o": [
+   "40 %",
+   "20 %",
+   "10 %",
+   "30 %"
+  ],
+  "a": 1,
+  "e": "Deux articles coûtent P + 0,6P = 1,6P, soit 0,8P par article : la réduction moyenne est de 20 %.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Lequel de ces quotients n'est pas un nombre décimal ?",
+  "o": [
+   "9/20",
+   "7/4",
+   "3/8",
+   "5/12"
+  ],
+  "a": 3,
+  "e": "7/4 = 1,75 ; 3/8 = 0,375 ; 9/20 = 0,45. En revanche 5/12 = 0,41666... : 12 = 2² × 3 contient le facteur 3, donc la fraction irréductible n'est pas décimale.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Quel est le nombre de dizaines de 3 476,5 ?",
+  "o": [
+   "7",
+   "3 476",
+   "34",
+   "347"
+  ],
+  "a": 3,
+  "e": "Le nombre de dizaines est le nombre entier de dizaines contenues : 3 476,5 = 347 × 10 + 6,5. Le chiffre des dizaines, lui, est 7.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Sur un axe gradué, A a pour abscisse 3/5 et B a pour abscisse 7/4. Quelle est l'abscisse du milieu de [AB] ?",
+  "o": [
+   "1,175",
+   "2,35",
+   "1,15",
+   "1,1"
+  ],
+  "a": 0,
+  "e": "3/5 = 0,6 et 7/4 = 1,75. Le milieu a pour abscisse (0,6 + 1,75) ÷ 2 = 2,35 ÷ 2 = 1,175.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 1 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20277/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On lance deux dés équilibrés à 5 faces numérotées de 1 à 5 et on additionne les résultats. Quelle est la probabilité d'obtenir une somme égale à 6 ?",
+  "o": [
+   "1/9",
+   "1/5",
+   "4/25",
+   "6/25"
+  ],
+  "a": 1,
+  "e": "Il y a 5 × 5 = 25 issues équiprobables. Somme 6 : (1;5), (2;4), (3;3), (4;2), (5;1), soit 5 issues : 5/25 = 1/5. Les 9 sommes possibles ne sont pas équiprobables.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Programme : choisir un nombre, ajouter 3, multiplier le résultat par 5, retrancher 8. Quel résultat obtient-on en partant de -4 ?",
+  "o": [
+   "-3",
+   "3",
+   "-13",
+   "-17"
+  ],
+  "a": 2,
+  "e": "-4 + 3 = -1 ; -1 × 5 = -5 ; -5 - 8 = -13. Le résultat 3 vient d'un oubli des étapes successives (-4 + 3 × 5 - 8).",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 2 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Programme : choisir un nombre, le multiplier par -3, ajouter 7. Quel nombre faut-il choisir au départ pour obtenir -17 ?",
+  "o": [
+   "8",
+   "10",
+   "-8",
+   "-10/3"
+  ],
+  "a": 0,
+  "e": "-3x + 7 = -17 donne -3x = -24, donc x = 8. Vérification : -3 × 8 + 7 = -17.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 2 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "Spectacle d'ombres : une source lumineuse est à 12 m d'un écran. Un objet de 25 cm, parallèle à l'écran, doit produire une ombre de 1,5 m. À quelle distance de la source faut-il le placer ?",
+  "o": [
+   "0,5 m",
+   "10 m",
+   "2 m",
+   "72 m"
+  ],
+  "a": 2,
+  "e": "Par le théorème de Thalès, d/12 = 0,25/1,5, donc d = 12 × 0,25 ÷ 1,5 = 2 m.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 2 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Médailles obtenues par 15 pays : 1 médaille (6 pays), 2 médailles (4 pays), 3 médailles (3 pays), 5 médailles (2 pays). Quel est le nombre moyen de médailles par pays ?",
+  "o": [
+   "2,75",
+   "2,2",
+   "3,75",
+   "8,25"
+  ],
+  "a": 1,
+  "e": "Moyenne pondérée : (1 × 6 + 2 × 4 + 3 × 3 + 5 × 2) ÷ 15 = 33 ÷ 15 = 2,2. 2,75 est la moyenne des seules valeurs, sans les effectifs.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 2 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Avec Scratch, on veut tracer un pentagone régulier : « répéter 5 fois : avancer de 50, tourner de ... degrés ». Quelle valeur faut-il saisir ?",
+  "o": [
+   "540",
+   "108",
+   "5",
+   "72"
+  ],
+  "a": 3,
+  "e": "Le lutin tourne de l'angle extérieur : 360° ÷ 5 = 72°. Tourner de 108° (angle intérieur) ne referme pas le pentagone.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 2 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20280/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "Laquelle de ces affirmations est vraie ?",
+  "o": [
+   "Un quadrilatère dont les diagonales sont perpendiculaires et de même longueur est un carré",
+   "Un quadrilatère qui a quatre côtés de même longueur est un carré",
+   "Un quadrilatère qui a deux angles droits est un rectangle",
+   "Un quadrilatère dont les diagonales ont le même milieu et la même longueur est un rectangle"
+  ],
+  "a": 3,
+  "e": "Diagonales de même milieu : parallélogramme ; de même longueur en plus : rectangle. Un cerf-volant peut avoir des diagonales perpendiculaires et de même longueur sans être un carré, un losange a quatre côtés égaux, et un trapèze rectangle a deux angles droits.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "La lumière parcourt environ 3 × 10⁵ km/s. La distance Terre-Lune est d'environ 384 000 km. Combien de temps la lumière met-elle pour aller de la Lune à la Terre ?",
+  "o": [
+   "1,28 s",
+   "0,78 s",
+   "12,8 s",
+   "128 s"
+  ],
+  "a": 0,
+  "e": "t = d ÷ v = 384 000 ÷ 300 000 = 1,28 s. 0,78 s vient de l'inversion du quotient.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Dans un tableur, B1 contient 4 et B2 contient 3. En B3, on saisit « =5*B1-2*B2*B2 ». Quel nombre s'affiche en B3 ?",
+  "o": [
+   "-16",
+   "2",
+   "14",
+   "38"
+  ],
+  "a": 1,
+  "e": "5 × 4 - 2 × 3 × 3 = 20 - 18 = 2. Le résultat -16 vient de (2 × 3)² = 36 au lieu de 2 × 3².",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "ABC est rectangle en B, avec AC = 17 cm et BC = 8 cm. Combien mesure AB ?",
+  "o": [
+   "9 cm",
+   "18,8 cm",
+   "15 cm",
+   "25 cm"
+  ],
+  "a": 2,
+  "e": "[AC] est l'hypoténuse : AB² = 17² - 8² = 289 - 64 = 225, donc AB = 15 cm. 18,8 cm vient de 17² + 8².",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Une recette pour 6 personnes demande 300 g de farine. Quelle masse de farine faut-il pour 10 personnes ?",
+  "o": [
+   "500 g",
+   "304 g",
+   "600 g",
+   "450 g"
+  ],
+  "a": 0,
+  "e": "Pour 1 personne : 300 ÷ 6 = 50 g ; pour 10 personnes : 50 × 10 = 500 g. Ajouter 4 g (304 g) est une erreur additive.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "Une recette utilise 40 g de beurre et le beurre est vendu en plaquettes de 250 g. Quelle fraction irréductible de la plaquette est utilisée ?",
+  "o": [
+   "1/25",
+   "2/5",
+   "4/25",
+   "8/25"
+  ],
+  "a": 2,
+  "e": "40/250 = 4/25 en simplifiant par 10. Vérification : 4/25 = 0,16 et 0,16 × 250 = 40.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Quel est le plus petit de ces nombres ?",
+  "o": [
+   "0,7",
+   "0,68",
+   "7/10 + 0,01",
+   "3/4"
+  ],
+  "a": 1,
+  "e": "3/4 = 0,75 ; 7/10 + 0,01 = 0,71 ; 0,7 = 0,70 ; 0,68 < 0,70. Le plus petit est 0,68.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On choisit au hasard un nombre parmi : 1/3 ; 0,5 ; 7/4 ; √4 ; 2/7 ; 3. Quelle est la probabilité qu'il soit décimal ?",
+  "o": [
+   "1/2",
+   "5/6",
+   "1/3",
+   "2/3"
+  ],
+  "a": 3,
+  "e": "Décimaux : 0,5 ; 7/4 = 1,75 ; √4 = 2 ; 3, soit 4 nombres sur 6. Probabilité 4/6 = 2/3 (les entiers sont décimaux).",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "Musée : formule B = 75 € d'abonnement + 22,50 € par visite ; formule C = 270 € sans limite. À partir de combien de visites la formule C est-elle plus économique que B ?",
+  "o": [
+   "7",
+   "8",
+   "12",
+   "9"
+  ],
+  "a": 3,
+  "e": "75 + 22,5n > 270 donne 22,5n > 195, soit n > 8,67. C devient plus économique à partir de 9 visites (8 visites coûtent 255 € en B).",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Une école paie 255 € pour des visites et reçoit de la mairie une subvention de 15 % du prix. Quel montant reste à payer ?",
+  "o": [
+   "216,75 €",
+   "38,25 €",
+   "240 €",
+   "229,50 €"
+  ],
+  "a": 0,
+  "e": "255 × (1 - 0,15) = 255 × 0,85 = 216,75 €. 38,25 € est le montant de la subvention.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Un carré de 6 cm de côté est reproduit dans la cour à l'échelle 150 : 1. Quelle est la longueur de la diagonale du nouveau carré, arrondie au cm ?",
+  "o": [
+   "9 m",
+   "12,73 m",
+   "18 m",
+   "8,49 m"
+  ],
+  "a": 1,
+  "e": "Côté réel : 6 × 150 = 900 cm = 9 m. Diagonale : 9√2 ≈ 12,73 m.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "Un pavé droit subit un agrandissement de rapport 1,5. Son volume est :",
+  "o": [
+   "multiplié par 1,5",
+   "multiplié par 2,25",
+   "multiplié par 3,375",
+   "multiplié par 4,5"
+  ],
+  "a": 2,
+  "e": "Dans un agrandissement de rapport k, les volumes sont multipliés par k³ : 1,5³ = 3,375. Les aires, elles, sont multipliées par 2,25.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Dans un tableur, D8 contient le montant total avant réduction. Quelle formule saisir en D9 pour obtenir le montant après une réduction de 15 % ?",
+  "o": [
+   "=D8*0,85",
+   "=D8*0,15",
+   "=D8-0,15",
+   "=D8-15"
+  ],
+  "a": 0,
+  "e": "Diminuer de 15 % revient à multiplier par 1 - 0,15 = 0,85. « =D8*0,15 » donne seulement le montant de la réduction.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20154/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "Une entrée coûte 12 € par adulte et 7,50 € par enfant. Un groupe de 4 adultes et n enfants paie 318 €. Combien y a-t-il d'enfants ?",
+  "o": [
+   "42,4",
+   "40",
+   "36",
+   "30"
+  ],
+  "a": 2,
+  "e": "Coût : 7,5n + 4 × 12 = 7,5n + 48 = 318, d'où 7,5n = 270 et n = 36.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20154/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Un autocar parcourt 96 km en 1 h 20 min. Quelle est sa vitesse moyenne ?",
+  "o": [
+   "80 km/h",
+   "72 km/h",
+   "73,8 km/h",
+   "120 km/h"
+  ],
+  "a": 1,
+  "e": "1 h 20 min = 1 + 20/60 = 4/3 h. v = 96 ÷ 4/3 = 72 km/h. 80 km/h vient de l'écriture erronée 1 h 20 = 1,2 h.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20154/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Voyage aller-retour vers un musée à 120 km. Autocar : 28 L/100 km, gazole à 1,70 €/L, péage de 12,50 € par trajet, forfait de 180 €. Quel est le coût total ?",
+  "o": [
+   "249,62 €",
+   "306,74 €",
+   "294,24 €",
+   "319,24 €"
+  ],
+  "a": 3,
+  "e": "240 km : 2,4 × 28 = 67,2 L, soit 67,2 × 1,70 = 114,24 €. Total : 114,24 + 2 × 12,50 + 180 = 319,24 €.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20154/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Tickets vendus : 3 (6 élèves), 5 (4 élèves), 8 (5 élèves), 10 (3 élèves), 12 (2 élèves). Quel est le nombre moyen de tickets vendus par élève ?",
+  "o": [
+   "7,6",
+   "26,4",
+   "6,5",
+   "6,6"
+  ],
+  "a": 3,
+  "e": "Total : 3 × 6 + 5 × 4 + 8 × 5 + 10 × 3 + 12 × 2 = 132 tickets pour 20 élèves. Moyenne : 132 ÷ 20 = 6,6.",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20154/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Logique",
+  "q": "Laquelle de ces affirmations est vraie ?",
+  "o": [
+   "Tout multiple de 12 est multiple de 4",
+   "Tout multiple de 3 est multiple de 6",
+   "Tout multiple de 4 est multiple de 12",
+   "Tout multiple de 2 et de 4 est multiple de 8"
+  ],
+  "a": 0,
+  "e": "12 = 4 × 3, donc 12k = 4 × 3k. Contre-exemples des autres : 8 (multiple de 4, pas de 12), 9 (multiple de 3, pas de 6), 4 (multiple de 2 et 4, pas de 8).",
+  "s": "Sujet CRPE bac+5 2026, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20154/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "On plante des fraisiers sur un rectangle de 175 cm sur 385 cm selon un maillage carré, avec un plant à chaque sommet. L'écart entre deux plants est un nombre entier de centimètres supérieur à 10. Quel est cet écart ?",
+  "o": [
+   "5 cm",
+   "35 cm",
+   "7 cm",
+   "70 cm"
+  ],
+  "a": 1,
+  "e": "L'écart doit diviser 175 et 385. PGCD : 175 = 5² × 7 et 385 = 5 × 7 × 11, donc PGCD = 35. Les diviseurs communs sont 1, 5, 7, 35 : seul 35 dépasse 10.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20157/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "Rectangle de 175 cm sur 385 cm, plants espacés de 35 cm, un plant à chaque sommet du maillage. Combien de plants faut-il ?",
+  "o": [
+   "55",
+   "66",
+   "72",
+   "60"
+  ],
+  "a": 2,
+  "e": "Dans la largeur : 175 ÷ 35 = 5 intervalles, donc 6 plants ; dans la longueur : 385 ÷ 35 = 11 intervalles, donc 12 plants. Total : 6 × 12 = 72.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20157/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Un prix augmente de 4 % puis de 5 %. Quel est le pourcentage d'augmentation globale ?",
+  "o": [
+   "9,2 %",
+   "9 %",
+   "20 %",
+   "9,02 %"
+  ],
+  "a": 0,
+  "e": "Coefficient global : 1,04 × 1,05 = 1,092, soit +9,2 %. Additionner donne 9 %, ce qui oublie que la seconde hausse porte sur le prix déjà augmenté.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20157/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "Un sixième d'une récolte est perdu. Parmi le reste, un cinquième sert à faire de la confiture. Quelle fraction de la récolte totale sert à la confiture ?",
+  "o": [
+   "1/5",
+   "11/30",
+   "1/6",
+   "1/30"
+  ],
+  "a": 2,
+  "e": "Reste : 1 - 1/6 = 5/6. Confiture : 1/5 × 5/6 = 5/30 = 1/6 de la récolte.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20157/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "La confiture représente 1/6 de la récolte et on y consacre 4 kg de fraises. Quelle est la masse de la récolte ?",
+  "o": [
+   "20 kg",
+   "24 kg",
+   "4,8 kg",
+   "10 kg"
+  ],
+  "a": 1,
+  "e": "Si 1/6 de la récolte vaut 4 kg, la récolte vaut 6 × 4 = 24 kg.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20157/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "Un grand cône de sommet S a une base de rayon OB = 30 cm. Un petit cône de même sommet a une base parallèle de rayon CA = 12 cm, avec C sur [SO] et OC = 15 cm. Combien mesure la hauteur OS ?",
+  "o": [
+   "37,5 cm",
+   "20 cm",
+   "10 cm",
+   "25 cm"
+  ],
+  "a": 3,
+  "e": "Par Thalès, SC/SO = CA/OB = 12/30 = 0,4. Comme SC = SO - 15 : SO - 15 = 0,4 SO, donc 0,6 SO = 15 et SO = 25 cm.",
+  "s": "Sujet CRPE bac+5 2026, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20157/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Dans un tableur, B2 contient le nombre de médailles d'or d'un pays et E2 son nombre total de médailles. Quelle formule donne le pourcentage de médailles d'or ?",
+  "o": [
+   "=E2/B2*100",
+   "=B2-E2",
+   "=B2*E2/100",
+   "=B2/E2*100"
+  ],
+  "a": 3,
+  "e": "Pourcentage = partie ÷ total × 100 = B2/E2*100. Par exemple 7 or sur 12 médailles donne environ 58,3 %.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20160/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "Trois phares forment un triangle de côtés 21 km, 28 km et 35 km. Que peut-on affirmer ?",
+  "o": [
+   "Il est rectangle, l'angle droit étant opposé au côté de 35 km",
+   "Il n'est pas rectangle",
+   "Il est isocèle",
+   "Il est rectangle, l'angle droit étant opposé au côté de 21 km"
+  ],
+  "a": 0,
+  "e": "21² + 28² = 441 + 784 = 1 225 = 35². Par la réciproque de Pythagore, il est rectangle et l'angle droit est opposé au plus grand côté.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20160/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Sur une carte à l'échelle 1/200 000, quelle longueur représente une distance réelle de 17 km ?",
+  "o": [
+   "85 cm",
+   "8,5 cm",
+   "0,85 cm",
+   "3,4 cm"
+  ],
+  "a": 1,
+  "e": "17 km = 1 700 000 cm ; 1 700 000 ÷ 200 000 = 8,5 cm.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20160/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On tire une carte au hasard dans un jeu de 52 cartes. Quelle est la probabilité d'obtenir une dame ou un pique ?",
+  "o": [
+   "17/52",
+   "1/52",
+   "4/13",
+   "1/4"
+  ],
+  "a": 2,
+  "e": "13 piques + 4 dames - 1 dame de pique comptée deux fois = 16 cartes. P = 16/52 = 4/13.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20160/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Distances parcourues : 8 km (50 élèves), 10 km (70), 12 km (60), 14 km (20). Quelle est la distance moyenne par élève ?",
+  "o": [
+   "10,5 km",
+   "10 km",
+   "11 km",
+   "52,5 km"
+  ],
+  "a": 0,
+  "e": "Total : 8 × 50 + 10 × 70 + 12 × 60 + 14 × 20 = 2 100 km pour 200 élèves, soit 10,5 km. 11 km est la moyenne des seules valeurs.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20160/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Même série : 8 km (50 élèves), 10 km (70), 12 km (60), 14 km (20). Quelle est la distance médiane ?",
+  "o": [
+   "10,5 km",
+   "11 km",
+   "10 km",
+   "12 km"
+  ],
+  "a": 2,
+  "e": "200 valeurs : médiane = moyenne des 100e et 101e valeurs. Effectifs cumulés : 50, 120... Les 100e et 101e valeurs valent 10 km.",
+  "s": "Sujet CRPE bac+5 2026, groupement 3 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20160/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Transport pour 200 km : compagnie A, 300 € + 1,60 €/km ; B, 250 € + 2 €/km ; C, forfait de 560 € HT avec 10 % de TVA. Quelle offre est la moins chère ?",
+  "o": [
+   "A (620 €)",
+   "C (616 €)",
+   "B (650 €)",
+   "C (560 €)"
+  ],
+  "a": 1,
+  "e": "A : 300 + 320 = 620 € ; B : 250 + 400 = 650 € ; C : 560 × 1,10 = 616 € TTC. C est la moins chère ; 560 € oublie la TVA.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20163/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Logique",
+  "q": "Quel exemple montre que la somme de deux rationnels non entiers peut être un entier ?",
+  "o": [
+   "1/2 + 1/3",
+   "2/5 + 1/2",
+   "0,25 + 0,5",
+   "1/3 + 2/3"
+  ],
+  "a": 3,
+  "e": "1/3 + 2/3 = 1, entier, alors que ni 1/3 ni 2/3 ne le sont : c'est un contre-exemple. Les autres sommes valent 5/6, 0,75 et 0,9.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20163/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "A, B, D sont alignés dans cet ordre, ainsi que A, C, E, avec AB = 4 cm, AD = 10 cm, AC = 6 cm, AE = 15 cm. Les droites (BC) et (DE) sont-elles parallèles ?",
+  "o": [
+   "Non, car 4/6 ≠ 6/15",
+   "Oui, car 4 + 6 = 10",
+   "On ne peut pas conclure sans angle droit",
+   "Oui, car 4/10 = 6/15"
+  ],
+  "a": 3,
+  "e": "AB/AD = 4/10 = 0,4 et AC/AE = 6/15 = 0,4. Les points étant dans le même ordre, la réciproque de Thalès permet de conclure au parallélisme.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20163/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Une palissade circulaire a un rayon de 1,8 km. On en construit 500 m par jour. Combien de jours faut-il pour la terminer ?",
+  "o": [
+   "23",
+   "46",
+   "22",
+   "12"
+  ],
+  "a": 0,
+  "e": "Longueur : 2π × 1,8 ≈ 11,31 km = 11 310 m. 11 310 ÷ 500 ≈ 22,6 : il faut 23 jours.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20163/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On lance deux dés équilibrés à six faces et on additionne. Quelle est la probabilité d'obtenir une somme supérieure ou égale à 10 ?",
+  "o": [
+   "1/12",
+   "1/6",
+   "3/11",
+   "1/4"
+  ],
+  "a": 1,
+  "e": "Sommes 10, 11, 12 : (4;6), (5;5), (6;4), (5;6), (6;5), (6;6), soit 6 issues sur 36 = 1/6. 3/11 suppose à tort les 11 sommes équiprobables.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20163/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Un motif compte 2, 5, 10 cubes aux étapes 1, 2, 3, soit n² + 1 cubes à l'étape n. Lequel de ces nombres peut être le nombre de cubes d'une étape ?",
+  "o": [
+   "100",
+   "90",
+   "82",
+   "120"
+  ],
+  "a": 2,
+  "e": "Il faut que N - 1 soit un carré : 82 - 1 = 81 = 9² (étape 9). 89, 99 et 119 ne sont pas des carrés.",
+  "s": "Sujet CRPE bac+5 2026, sujet supplémentaire (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/20163/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "La mairie finance 1/4 du coût d'un voyage, la coopérative 40 % du reste, et les familles le solde. Quelle fraction du coût total paient les familles ?",
+  "o": [
+   "9/20",
+   "3/5",
+   "3/20",
+   "7/20"
+  ],
+  "a": 0,
+  "e": "Reste après la mairie : 3/4. Les familles paient 60 % de ce reste : 0,6 × 3/4 = 9/20. 7/20 vient de 1 - 1/4 - 0,4, en oubliant que les 40 % portent sur le reste.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On lance quatre jetons équilibrés portant 0 sur une face et 1 sur l'autre, et on additionne. Quelle est la probabilité d'obtenir 2 ?",
+  "o": [
+   "1/5",
+   "1/4",
+   "3/8",
+   "1/2"
+  ],
+  "a": 2,
+  "e": "16 issues équiprobables ; obtenir exactement deux 1 : 6 issues (choix de 2 jetons parmi 4). P = 6/16 = 3/8. Les 5 sommes ne sont pas équiprobables.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Chauffée, l'eau d'une piscine passe de 450 000 L à 451 800 L. Quel est le pourcentage d'augmentation du volume ?",
+  "o": [
+   "4 %",
+   "0,4 %",
+   "0,04 %",
+   "1 800 %"
+  ],
+  "a": 1,
+  "e": "Augmentation : 1 800 L. 1 800 ÷ 450 000 = 0,004 = 0,4 %.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Un élève nage 18 longueurs de 25 m en 15 minutes. Quelle est sa vitesse moyenne en km/h ?",
+  "o": [
+   "30 km/h",
+   "1,2 km/h",
+   "0,5 km/h",
+   "1,8 km/h"
+  ],
+  "a": 3,
+  "e": "450 m en 15 min, soit 30 m/min = 1 800 m/h = 1,8 km/h.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Neuf élèves ont nagé au total 108 longueurs. Combien de longueurs le dixième élève doit-il nager pour que la moyenne des dix soit 12,5 ?",
+  "o": [
+   "13",
+   "12,5",
+   "0,5",
+   "17"
+  ],
+  "a": 3,
+  "e": "Total visé : 10 × 12,5 = 125 longueurs. Il manque 125 - 108 = 17 longueurs.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Laquelle de ces fractions est égale à un nombre décimal ?",
+  "o": [
+   "9/45",
+   "10/45",
+   "7/45",
+   "15/45"
+  ],
+  "a": 0,
+  "e": "9/45 = 1/5 = 0,2. 7/45 est irréductible avec 45 = 3² × 5 ; 10/45 = 2/9 et 15/45 = 1/3 ne sont pas décimaux.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Lequel de ces nombres n'est pas décimal ?",
+  "o": [
+   "48/16",
+   "5/6",
+   "7/20",
+   "0,125"
+  ],
+  "a": 1,
+  "e": "48/16 = 3 ; 7/20 = 0,35 ; 0,125 est décimal. 5/6 = 0,8333... car 6 contient le facteur 3.",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16576/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "La somme de quatre entiers consécutifs est toujours :",
+  "o": [
+   "un multiple de 4",
+   "un nombre impair",
+   "un nombre pair",
+   "un multiple de 3"
+  ],
+  "a": 2,
+  "e": "n + (n + 1) + (n + 2) + (n + 3) = 4n + 6 = 2(2n + 3) : c'est pair. Ce n'est jamais un multiple de 4 (reste 2).",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16576/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Logique",
+  "q": "Pour lequel de ces nombres x a-t-on √x > x ?",
+  "o": [
+   "0,49",
+   "4",
+   "1",
+   "2,25"
+  ],
+  "a": 0,
+  "e": "√0,49 = 0,7 > 0,49. Pour tout x compris strictement entre 0 et 1, √x > x : l'affirmation « √x ≤ x pour tout x positif » est donc fausse.",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16576/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "Combien d'axes de symétrie possède un rectangle qui n'est pas un carré ?",
+  "o": [
+   "0",
+   "4",
+   "2",
+   "1"
+  ],
+  "a": 2,
+  "e": "Ses deux axes sont les médiatrices de ses côtés. Ses diagonales ne sont pas des axes de symétrie (ce n'est vrai que pour le carré).",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16576/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Il faut 6 L de lait pour obtenir 1 L de crème. De quel pourcentage le volume est-il réduit, arrondi au dixième ?",
+  "o": [
+   "16,7 %",
+   "83,3 %",
+   "600 %",
+   "85 %"
+  ],
+  "a": 1,
+  "e": "Le volume passe de 6 L à 1 L : baisse de 5 L sur 6 L, soit 5 ÷ 6 ≈ 83,3 %.",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16576/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "240 vaches donnent chacune 30 L de lait par jour. Il faut 8 L de lait pour 1 L de crème et 3 L de crème pour 1 kg de beurre. Quelle masse de beurre obtient-on par jour ?",
+  "o": [
+   "2 700 kg",
+   "900 kg",
+   "33,3 kg",
+   "300 kg"
+  ],
+  "a": 3,
+  "e": "Lait : 240 × 30 = 7 200 L ; crème : 7 200 ÷ 8 = 900 L ; beurre : 900 ÷ 3 = 300 kg.",
+  "s": "Sujet CRPE bac+5 2025, groupement 2 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16576/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Quelle est la médiane de la série : 7 ; 21 ; 13 ; 5 ; 18 ; 13 ; 9 ; 24 ; 11 ; 16 ?",
+  "o": [
+   "15,5",
+   "13,7",
+   "14,5",
+   "13"
+  ],
+  "a": 3,
+  "e": "Série rangée : 5 ; 7 ; 9 ; 11 ; 13 ; 13 ; 16 ; 18 ; 21 ; 24. Médiane = moyenne des 5e et 6e valeurs = (13 + 13) ÷ 2 = 13. 13,7 est la moyenne.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16567/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Laquelle de ces grandeurs est proportionnelle à la longueur du côté d'un carré ?",
+  "o": [
+   "Son périmètre",
+   "Le volume du cube de même arête",
+   "L'aire du disque inscrit",
+   "Son aire"
+  ],
+  "a": 0,
+  "e": "P = 4c : coefficient constant 4. L'aire c² n'est pas proportionnelle à c : doubler le côté multiplie l'aire par 4.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16567/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "Énigme : je suis un entier compris entre 100 et 400, multiple de 9, mon chiffre des unités est 6, je ne suis pas divisible par 4 et mon chiffre des dizaines n'est pas nul. Qui suis-je ?",
+  "o": [
+   "216",
+   "126",
+   "306",
+   "396"
+  ],
+  "a": 1,
+  "e": "Multiples de 9 finissant par 6 : 126, 216, 306, 396 (somme des chiffres 9 ou 18). 216 et 396 sont divisibles par 4 (16 et 96) ; 306 a un 0 aux dizaines. Reste 126.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16567/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "Comment décomposer 17/5 en somme d'un entier et d'une fraction inférieure à 1 ?",
+  "o": [
+   "3 + 5/2",
+   "2 + 7/5",
+   "3 + 2/5",
+   "3 + 1/5"
+  ],
+  "a": 2,
+  "e": "17 = 3 × 5 + 2, donc 17/5 = 3 + 2/5. 2 + 7/5 est juste mais 7/5 dépasse 1.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16567/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "Quel est le volume d'une demi-sphère de 6 cm de diamètre, arrondi au dixième ?",
+  "o": [
+   "56,5 cm³",
+   "113,1 cm³",
+   "452,4 cm³",
+   "28,3 cm³"
+  ],
+  "a": 0,
+  "e": "V = (1/2) × (4/3) × π × 3³ = 18π ≈ 56,5 cm³. 113,1 cm³ est la boule entière et 452,4 cm³ prend 6 cm pour rayon.",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16567/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "On verse 56,5 cm³ de cire dans un moule cylindrique de rayon 3 cm. Quelle hauteur atteint la cire, arrondie au mm ?",
+  "o": [
+   "6,0 cm",
+   "0,7 cm",
+   "2,0 cm",
+   "18,8 cm"
+  ],
+  "a": 2,
+  "e": "h = V ÷ (πr²) = 56,5 ÷ (9π) ≈ 2,0 cm. 6,0 cm vient de πr au lieu de πr².",
+  "s": "Sujet CRPE bac+5 2025, groupement 3 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16567/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "ABC est rectangle en B avec AB = 120 m et BC = 90 m. D est sur [BC] avec BD = 60 m, et la parallèle à (AC) passant par D coupe [AB] en E. Combien mesure BE ?",
+  "o": [
+   "45 m",
+   "80 m",
+   "100 m",
+   "90 m"
+  ],
+  "a": 1,
+  "e": "Par Thalès dans le triangle ABC, BE/BA = BD/BC = 60/90 = 2/3, donc BE = 120 × 2/3 = 80 m.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16705/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Une équipe court à l'allure de 5 min 20 s par kilomètre. Quelle est sa vitesse en km/h ?",
+  "o": [
+   "18,75 km/h",
+   "11,54 km/h",
+   "5,33 km/h",
+   "11,25 km/h"
+  ],
+  "a": 3,
+  "e": "5 min 20 s = 5 + 20/60 = 16/3 min par km. v = 60 ÷ 16/3 = 11,25 km/h. 11,54 km/h vient de 5 min 20 s lu comme 5,2 min.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16705/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "Un cône de hauteur 12 cm et de rayon 6 cm est coupé par un plan parallèle à la base, à 4 cm du sommet. Quel est le volume exact du tronc de cône restant ?",
+  "o": [
+   "96π cm³",
+   "432π cm³",
+   "128π cm³",
+   "416π/3 cm³"
+  ],
+  "a": 3,
+  "e": "Grand cône : (1/3)π × 36 × 12 = 144π. Réduction de rapport 4/12 = 1/3 : petit cône = 144π × (1/3)³ = 16π/3. Tronc : 144π - 16π/3 = 416π/3 cm³ (environ 435,6 cm³).",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16705/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "La distance moyenne d'un test passe de 2 400 m à 2 652 m. Quel est le taux d'évolution ?",
+  "o": [
+   "+10,5 %",
+   "+252 %",
+   "+9,5 %",
+   "+1,105 %"
+  ],
+  "a": 0,
+  "e": "(2 652 - 2 400) ÷ 2 400 = 252 ÷ 2 400 = 0,105, soit +10,5 %. 9,5 % divise par la valeur d'arrivée.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16705/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "On a VO2max = 22,351 × d - 11,288, où d est la distance en km. Quelle distance faut-il parcourir pour une VO2max de 40 ? (arrondi au mètre)",
+  "o": [
+   "1 285 m",
+   "2 295 m",
+   "1 790 m",
+   "2 295 km"
+  ],
+  "a": 1,
+  "e": "22,351d = 40 + 11,288 = 51,288, d'où d ≈ 2,2947 km ≈ 2 295 m. 1 285 m vient de 40 - 11,288 au lieu de 40 + 11,288.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16705/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Pour tout x, à quoi est égale l'expression (3x + 2)(x - 4) - 3x² ?",
+  "o": [
+   "6x² - 10x - 8",
+   "-10x + 8",
+   "-10x - 8",
+   "-14x - 8"
+  ],
+  "a": 2,
+  "e": "(3x + 2)(x - 4) = 3x² - 12x + 2x - 8 = 3x² - 10x - 8. En retirant 3x², il reste -10x - 8.",
+  "s": "Sujet CRPE bac+5 2025, sujet supplémentaire (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/16705/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Une étiquette doit faire le tour d'un cylindre de 7,5 cm de diamètre. Quelle longueur minimale faut-il, arrondie au mm par excès ?",
+  "o": [
+   "23,6 cm",
+   "11,8 cm",
+   "44,2 cm",
+   "47,2 cm"
+  ],
+  "a": 0,
+  "e": "Périmètre de la base : π × 7,5 ≈ 23,56 cm, arrondi par excès à 23,6 cm. 11,8 cm est un demi-périmètre (π × r).",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13647/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Quel est le volume d'un cylindre de 10 cm de diamètre et de 12 cm de hauteur, arrondi au centilitre ?",
+  "o": [
+   "3,77 L",
+   "9,42 L",
+   "0,94 L",
+   "0,38 L"
+  ],
+  "a": 2,
+  "e": "V = π × 5² × 12 = 300π ≈ 942,5 cm³ = 0,9425 L ≈ 0,94 L. 3,77 L vient du diamètre pris comme rayon.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13647/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Précipitations mensuelles (mm) : 48 ; 91 ; 30 ; 115 ; 62 ; 39 ; 21 ; 33 ; 70 ; 101. Quelle est l'étendue de la série ?",
+  "o": [
+   "61 mm",
+   "94 mm",
+   "115 mm",
+   "80 mm"
+  ],
+  "a": 1,
+  "e": "Étendue = maximum - minimum = 115 - 21 = 94 mm. 61 mm est la moyenne (610 ÷ 10).",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13647/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "La droite représentant une fonction affine f passe par les points (0 ; 3) et (2 ; -1). Quelle est l'expression de f ?",
+  "o": [
+   "f(x) = 3x - 2",
+   "f(x) = -0,5x + 3",
+   "f(x) = 2x + 3",
+   "f(x) = -2x + 3"
+  ],
+  "a": 3,
+  "e": "Coefficient directeur : (-1 - 3) ÷ (2 - 0) = -2 ; ordonnée à l'origine : 3. Vérification : f(2) = -4 + 3 = -1.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13647/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Un élève court 750 m en 5 minutes. Quelle est sa vitesse moyenne en km/h ?",
+  "o": [
+   "150 km/h",
+   "2,5 km/h",
+   "15 km/h",
+   "9 km/h"
+  ],
+  "a": 3,
+  "e": "750 m en 5 min, soit 150 m/min, soit 9 000 m/h = 9 km/h.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13647/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Sur un géoplan de n² picots, le tour complet en petits carrés demande 4n - 8 carrés. Combien en faut-il pour un géoplan de 49 picots ?",
+  "o": [
+   "20",
+   "24",
+   "28",
+   "16"
+  ],
+  "a": 0,
+  "e": "49 = 7², donc n = 7 et 4 × 7 - 8 = 20 carrés. 28 oublie de retirer les 8.",
+  "s": "Sujet CRPE bac+5 2024, groupement 1 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13647/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "84 élèves de CE2 et 126 élèves de CM1 forment des équipes identiques (même nombre de CE2 et même nombre de CM1 par équipe), sans exclure personne. Quel est le nombre maximal d'équipes ?",
+  "o": [
+   "21",
+   "42",
+   "14",
+   "6"
+  ],
+  "a": 1,
+  "e": "84 = 2² × 3 × 7 et 126 = 2 × 3² × 7, d'où PGCD = 2 × 3 × 7 = 42 équipes de 2 CE2 et 3 CM1.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "On forme 10 équipes avec le maximum d'élèves, chaque équipe ayant le même nombre de CE2 (84 au total) et le même nombre de CM1 (126 au total). Combien d'élèves ne participent pas ?",
+  "o": [
+   "0",
+   "4",
+   "10",
+   "6"
+  ],
+  "a": 2,
+  "e": "84 = 10 × 8 + 4 et 126 = 10 × 12 + 6 : il reste 4 CE2 et 6 CM1, soit 10 élèves.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "PRC est rectangle en R ; A est sur [PR] et S sur [PC] avec (AS) // (RC). On a PA = 24 m, AR = 8 m et AS = 18 m. Combien mesure RC ?",
+  "o": [
+   "24 m",
+   "6 m",
+   "40 m",
+   "26 m"
+  ],
+  "a": 0,
+  "e": "PR = 32 m. Par Thalès, RC/AS = PR/PA, donc RC = 18 × 32/24 = 24 m.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "Un saladier en demi-sphère de 30 cm de diamètre est rempli de pâte. Quel volume contient-il, arrondi au dixième de litre ?",
+  "o": [
+   "14,1 L",
+   "56,5 L",
+   "7,1 L",
+   "70,7 L"
+  ],
+  "a": 2,
+  "e": "V = (2/3)π × 15³ = 2 250π ≈ 7 069 cm³ ≈ 7,1 L. 14,1 L est la boule entière.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "On répartit 2 250π cm³ de pâte dans des moules cylindriques de rayon 2,5 cm et de hauteur 6 cm, remplis aux 2/3. Combien de moules peut-on remplir ?",
+  "o": [
+   "60",
+   "90",
+   "45",
+   "135"
+  ],
+  "a": 1,
+  "e": "Volume utile d'un moule : (2/3) × π × 2,5² × 6 = 25π cm³. 2 250π ÷ 25π = 90 moules. 60 correspond à des moules remplis entièrement.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Quel intervalle représente l'ensemble des nombres x tels que x < -4 ?",
+  "o": [
+   "]-∞ ; -4]",
+   "]-4 ; +∞[",
+   "]-∞ ; -6]",
+   "]-∞ ; -4["
+  ],
+  "a": 3,
+  "e": "L'inégalité est stricte : -4 est exclu, d'où le crochet ouvert. ]-∞ ; -6] oublie par exemple -5, qui vérifie x < -4.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On forme un nombre de trois chiffres en tirant successivement, sans remise, les cartes 1, 4 et 6. Quelle est la probabilité d'obtenir un nombre pair ?",
+  "o": [
+   "1/3",
+   "1",
+   "1/2",
+   "2/3"
+  ],
+  "a": 3,
+  "e": "6 nombres équiprobables ; le nombre est pair s'il se termine par 4 ou 6, donc si la dernière carte est 4 ou 6 : 2 chances sur 3.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13665/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "Offre G : abonnement de 15 € plus un montant fixe par vidéo. Une école paie 81 € pour 120 vidéos. Quel est le prix par vidéo ?",
+  "o": [
+   "0,55 €",
+   "0,675 €",
+   "0,80 €",
+   "0,125 €"
+  ],
+  "a": 0,
+  "e": "81 - 15 = 66 € pour 120 vidéos : 66 ÷ 120 = 0,55 €. 0,675 € oublie de retirer l'abonnement.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13665/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "Offre F : 0,70 € par vidéo. Offre G : 15 € + 0,55 € par vidéo. À partir de combien de vidéos G est-elle strictement plus intéressante ?",
+  "o": [
+   "100",
+   "101",
+   "21",
+   "28"
+  ],
+  "a": 1,
+  "e": "0,55x + 15 < 0,70x donne 15 < 0,15x, soit x > 100. À 100 vidéos les deux coûtent 70 € ; G est meilleure à partir de 101.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13665/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Le nombre de vidéos est en B1. L'offre G coûte 13 € + 0,60 € par vidéo, avec une réduction de 20 % sur le total. Quelle formule saisir en B3 ?",
+  "o": [
+   "=(0,6*B1+13)*0,2",
+   "=0,6*B1+13*0,8",
+   "=(0,6*B1+13)*0,8",
+   "=(0,6*B1+13)-20"
+  ],
+  "a": 2,
+  "e": "On calcule le total 0,6 × B1 + 13, puis on applique le coefficient 1 - 0,20 = 0,8 à tout le total, d'où les parenthèses.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13665/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Logique",
+  "q": "Quel exemple montre que le produit de deux nombres n'est pas toujours supérieur ou égal à chacun d'eux ?",
+  "o": [
+   "0,5 × 0,4 = 0,2",
+   "1 × 5 = 5",
+   "2 × 3 = 6",
+   "10 × 10 = 100"
+  ],
+  "a": 0,
+  "e": "0,2 est plus petit que 0,5 et que 0,4 : c'est un contre-exemple. Multiplier par un nombre compris entre 0 et 1 diminue.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13665/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie dans l'espace",
+  "q": "Un cône a une hauteur de 12 cm et un rayon de base de 5 cm. Combien mesure sa génératrice ?",
+  "o": [
+   "17 cm",
+   "7 cm",
+   "13 cm",
+   "√119 cm"
+  ],
+  "a": 2,
+  "e": "La hauteur, le rayon et la génératrice forment un triangle rectangle : g² = 12² + 5² = 169, donc g = 13 cm.",
+  "s": "Sujet CRPE bac+5 2024, groupement 3 (exercice 6), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13665/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "Paul mange les 3/7 d'un paquet de 56 gâteaux, puis donne les 3/8 de ce qui reste à sa sœur. Combien de gâteaux donne-t-il ?",
+  "o": [
+   "21",
+   "12",
+   "15",
+   "9"
+  ],
+  "a": 1,
+  "e": "Il mange 3/7 × 56 = 24 gâteaux ; il en reste 32. Il donne 3/8 × 32 = 12. 21 vient de 3/8 de 56.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13836/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "Dans la division euclidienne par 11, a a pour reste 5 et b a pour reste 8. Quel est le reste de a + b dans la division par 11 ?",
+  "o": [
+   "13",
+   "0",
+   "3",
+   "2"
+  ],
+  "a": 3,
+  "e": "a = 11q + 5 et b = 11q' + 8, donc a + b = 11(q + q') + 13 = 11(q + q' + 1) + 2. Le reste vaut 2 (un reste est inférieur à 11).",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13836/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "f est une fonction linéaire telle que f(3) = 12. Combien vaut f(5) ?",
+  "o": [
+   "14",
+   "60",
+   "15",
+   "20"
+  ],
+  "a": 3,
+  "e": "f(x) = ax avec a = 12 ÷ 3 = 4, donc f(5) = 20. Autre voie : f(5) = 12 × 5/3 = 20.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13836/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Le prix HT est en B2 et la TVA est de 20 %. Quelle formule saisir en C2 pour obtenir le prix TTC ?",
+  "o": [
+   "=B2*1,2",
+   "=B2*0,2",
+   "=B2+0,2",
+   "=B2+20"
+  ],
+  "a": 0,
+  "e": "TTC = HT + 20 % de HT = HT × 1,2. « =B2*0,2 » donne seulement le montant de la TVA.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13836/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Le béton coûte 156 € TTC le m³ ; chaque camion transporte au plus 7 m³ et la livraison coûte 58 € par camion. Quel est le prix total pour 15 m³ ?",
+  "o": [
+   "2 456 €",
+   "2 514 €",
+   "2 398 €",
+   "2 124 €"
+  ],
+  "a": 1,
+  "e": "15 ÷ 7 ≈ 2,14 : il faut 3 camions. Prix : 15 × 156 + 3 × 58 = 2 340 + 174 = 2 514 €.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13836/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Il faut 250 kg de ciment par tonne de mélange. Pour 600 kg de mélange, on achète des sacs de 25 kg à 6,40 € le sac. Combien coûte le ciment ?",
+  "o": [
+   "32,00 €",
+   "44,80 €",
+   "38,40 €",
+   "960 €"
+  ],
+  "a": 2,
+  "e": "Ciment : 0,6 × 250 = 150 kg, soit 150 ÷ 25 = 6 sacs. Prix : 6 × 6,40 = 38,40 €.",
+  "s": "Sujet CRPE bac+5 2024, sujet supplémentaire (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/13836/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Une classe parcourt 37,8 km à vélo à la vitesse moyenne de 14 km/h. Combien de temps dure le parcours ?",
+  "o": [
+   "2 h 42 min",
+   "2 h 27 min",
+   "2 h 7 min",
+   "2 h 70 min"
+  ],
+  "a": 0,
+  "e": "t = 37,8 ÷ 14 = 2,7 h ; 0,7 h = 0,7 × 60 = 42 min, soit 2 h 42 min.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7559/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "A reçoit 1/5 d'une somme, B en reçoit 1/3, et C et D se partagent le reste à parts égales. Quelle fraction de la somme reçoit C ?",
+  "o": [
+   "7/15",
+   "1/4",
+   "7/30",
+   "2/15"
+  ],
+  "a": 2,
+  "e": "Reste : 1 - 1/5 - 1/3 = 15/15 - 3/15 - 5/15 = 7/15. C en reçoit la moitié : 7/30.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7559/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fractions",
+  "q": "D reçoit 7/30 d'une somme, soit 63 €. Quelle est la somme totale ?",
+  "o": [
+   "135 €",
+   "270 €",
+   "126 €",
+   "300 €"
+  ],
+  "a": 1,
+  "e": "1/30 de la somme vaut 63 ÷ 7 = 9 €, donc la somme vaut 30 × 9 = 270 €.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7559/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algorithmique et tableur",
+  "q": "Un bloc Scratch trace un triangle équilatéral : « répéter 3 fois : avancer de 60, tourner de 120 degrés ». Que faut-il modifier pour tracer un hexagone régulier ?",
+  "o": [
+   "Répéter 6 fois et tourner de 720 degrés",
+   "Répéter 6 fois et tourner de 120 degrés",
+   "Répéter 3 fois et tourner de 60 degrés",
+   "Répéter 6 fois et tourner de 60 degrés"
+  ],
+  "a": 3,
+  "e": "Pour un polygone régulier à n côtés, le lutin répète n fois et tourne de 360° ÷ n : 360 ÷ 6 = 60°.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7559/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "On plante 5 pieds de fraisiers par m² sur 15 m² ; chaque pied produit en moyenne 700 g de fraises. Quelle masse de fraises peut-on espérer ?",
+  "o": [
+   "5,25 kg",
+   "525 kg",
+   "21,4 kg",
+   "52,5 kg"
+  ],
+  "a": 3,
+  "e": "Nombre de pieds : 5 × 15 = 75. Masse : 75 × 700 g = 52 500 g = 52,5 kg.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7559/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Pour une confiture, le sucre doit représenter 40 % de la masse totale (fraises + sucre). Avec 18 kg de fraises, quelle masse de sucre faut-il ?",
+  "o": [
+   "12 kg",
+   "7,2 kg",
+   "30 kg",
+   "10,8 kg"
+  ],
+  "a": 0,
+  "e": "Les fraises représentent 60 % du total : total = 18 ÷ 0,6 = 30 kg, donc sucre = 30 - 18 = 12 kg. 7,2 kg calcule à tort 40 % des fraises.",
+  "s": "Sujet CRPE bac+5 2023, groupement 1 (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7559/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Un élève fait un tour de 420 m en 2 min 30 s. Quelle est sa vitesse moyenne ?",
+  "o": [
+   "1,68 m/s",
+   "2,8 m/s",
+   "2,33 m/s",
+   "168 m/s"
+  ],
+  "a": 1,
+  "e": "2 min 30 s = 150 s ; 420 ÷ 150 = 2,8 m/s (soit 10,08 km/h). 1,68 m/s vient de 2 min 30 lu comme 250 s.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Une élève court 15 minutes à 8 km/h sur un parcours de 350 m. Combien de tours complets effectue-t-elle ?",
+  "o": [
+   "4",
+   "6",
+   "5",
+   "2"
+  ],
+  "a": 2,
+  "e": "Distance : 8 × 15/60 = 2 km = 2 000 m. 2 000 ÷ 350 ≈ 5,7, soit 5 tours complets.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Nombre de tours : 2 (10 élèves), 3 (15), 4 (20), 5 (10), 6 (5). On prend pour troisième quartile la plus petite valeur de la série telle qu'au moins 75 % des données lui soient inférieures ou égales. Quel est le troisième quartile ?",
+  "o": [
+   "4",
+   "5",
+   "3",
+   "4,5"
+  ],
+  "a": 0,
+  "e": "60 valeurs : 75 % de 60 = 45, donc Q3 est la 45e valeur. Effectifs cumulés : 10, 25, 45 : la 45e valeur vaut 4. 4,5 serait la médiane de la moitié supérieure, une autre convention que celle de l'énoncé.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Statistiques",
+  "q": "Nombre de tours : 2 (10 élèves), 3 (15), 4 (20), 5 (10), 6 (5). Quel pourcentage d'élèves a fait au moins 4 tours, arrondi au dixième ?",
+  "o": [
+   "33,3 %",
+   "41,7 %",
+   "58,3 %",
+   "60 %"
+  ],
+  "a": 2,
+  "e": "Au moins 4 tours : 20 + 10 + 5 = 35 élèves sur 60, soit 35 ÷ 60 ≈ 58,3 %. 33,3 % ne compte que les 4 tours.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "Quelle est la nature d'un rectangle dont les diagonales sont perpendiculaires ?",
+  "o": [
+   "Un losange non carré",
+   "Un carré",
+   "Un trapèze",
+   "Un cerf-volant non carré"
+  ],
+  "a": 1,
+  "e": "Un parallélogramme à diagonales perpendiculaires est un losange ; un rectangle qui est aussi un losange est un carré.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "On passe des degrés Fahrenheit aux degrés Celsius par C = (F - 32) × 5/9. À combien de degrés Celsius correspondent 68 °F ?",
+  "o": [
+   "37,8 °C",
+   "4,4 °C",
+   "55,6 °C",
+   "20 °C"
+  ],
+  "a": 3,
+  "e": "(68 - 32) × 5/9 = 36 × 5/9 = 20 °C. 37,8 °C oublie de soustraire 32.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "Lequel de ces nombres est un multiple de 17 ?",
+  "o": [
+   "3 450",
+   "3 452",
+   "3 461",
+   "3 451"
+  ],
+  "a": 3,
+  "e": "3 451 = 17 × 203. Les autres ne sont pas divisibles : 3 450 = 17 × 203 - 1, par exemple.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "Le nombre 57▢ est divisible par 3. Quelles sont les valeurs possibles du chiffre des unités ▢ ?",
+  "o": [
+   "0, 3, 6 ou 9",
+   "2, 5 ou 8",
+   "3, 6 ou 9",
+   "seulement 3"
+  ],
+  "a": 0,
+  "e": "Un nombre est divisible par 3 si la somme de ses chiffres l'est : 5 + 7 + ▢ = 12 + ▢, multiple de 3 pour ▢ = 0, 3, 6 ou 9.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Arithmétique",
+  "q": "Critère : n est divisible par 7 si (nombre de dizaines de n) - 2 × (chiffre des unités) est un multiple de 7. Que donne ce critère appliqué une fois à 952 ?",
+  "o": [
+   "91, donc 952 n'est pas divisible par 7",
+   "91, donc 952 est divisible par 7",
+   "99, donc 952 n'est pas divisible par 7",
+   "93, donc 952 n'est pas divisible par 7"
+  ],
+  "a": 1,
+  "e": "Nombre de dizaines : 95 ; unités : 2. 95 - 2 × 2 = 91 = 7 × 13, donc 952 est divisible par 7 (952 = 7 × 136).",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Quelle est la solution de l'équation (x + 2)(x - 3) = (x - 1)(x + 4) ?",
+  "o": [
+   "0,5",
+   "-2",
+   "-0,5",
+   "2,5"
+  ],
+  "a": 2,
+  "e": "x² - x - 6 = x² + 3x - 4, d'où -4x = 2 et x = -0,5. Les termes en x² s'éliminent.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "On multiplie par 2,5 les longueurs des côtés d'un rectangle. Son aire est multipliée par :",
+  "o": [
+   "6,25",
+   "5",
+   "2,5",
+   "15,625"
+  ],
+  "a": 0,
+  "e": "Les deux dimensions sont multipliées par 2,5, donc l'aire est multipliée par 2,5² = 6,25.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Avec un segment [RS] de 4 cm, la construction donne un pentagone régulier de côté environ 2,351 cm, et ce côté est proportionnel à RS. Quelle longueur RS faut-il pour un côté de 5 cm ?",
+  "o": [
+   "2,9 cm",
+   "11,8 cm",
+   "8,5 cm",
+   "4,7 cm"
+  ],
+  "a": 2,
+  "e": "Coefficient : 4 ÷ 2,351 ≈ 1,701. RS = 5 × 1,701 ≈ 8,5 cm.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Vitesses et durées",
+  "q": "Un nœud vaut 1 852 m/h. Une navette parcourt 27,78 km à 12 nœuds. Combien de temps dure le trajet ?",
+  "o": [
+   "85 min",
+   "75 min",
+   "139 min",
+   "125 min"
+  ],
+  "a": 1,
+  "e": "12 nœuds = 12 × 1,852 = 22,224 km/h. Durée : 27,78 ÷ 22,224 = 1,25 h = 75 min. 85 min vient de 1,25 h lu comme 1 h 25.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "À 25 € la place, on vend 600 places par jour ; chaque hausse de 10 centimes fait perdre 4 places. Quelle est la recette journalière à 30 € ?",
+  "o": [
+   "15 000 €",
+   "18 000 €",
+   "11 750 €",
+   "12 000 €"
+  ],
+  "a": 3,
+  "e": "30 - 25 = 5 €, soit 50 hausses de 10 centimes, donc 50 × 4 = 200 places de moins : 400 places. Recette : 400 × 30 = 12 000 €.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "On peint 40 assises de 1 800 cm² chacune. La peinture couvre 8 m² par litre et se vend en pots de 0,5 L. Combien de pots faut-il ?",
+  "o": [
+   "1",
+   "15",
+   "4",
+   "2"
+  ],
+  "a": 3,
+  "e": "Surface : 40 × 1 800 = 72 000 cm² = 7,2 m². Peinture : 7,2 ÷ 8 = 0,9 L, donc 2 pots de 0,5 L.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "On tire une carte dans un jeu de 52 cartes. Quelle est la probabilité d'obtenir un cœur ou une figure (valet, dame, roi) ?",
+  "o": [
+   "11/26",
+   "25/52",
+   "3/52",
+   "1/4"
+  ],
+  "a": 0,
+  "e": "13 cœurs + 12 figures - 3 figures de cœur = 22 cartes. P = 22/52 = 11/26. 25/52 compte deux fois les figures de cœur.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Probabilités",
+  "q": "Combien de jokers faut-il ajouter à un jeu de 52 cartes pour que la probabilité de tirer un joker soit 1/27 ?",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "a": 1,
+  "e": "j ÷ (52 + j) = 1/27 donne 27j = 52 + j, soit 26j = 52 et j = 2. Vérification : 2/54 = 1/27.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Pourcentages",
+  "q": "Les charges représentent 20 % du salaire brut, et le net est le brut moins les charges. Quel salaire brut correspond à un net de 2 400 € ?",
+  "o": [
+   "2 880 €",
+   "1 920 €",
+   "3 000 €",
+   "2 420 €"
+  ],
+  "a": 2,
+  "e": "Net = brut × 0,8, donc brut = 2 400 ÷ 0,8 = 3 000 €. Ajouter 20 % au net (2 880 €) est l'erreur classique.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Parmi ces nombres, lequel n'est pas un nombre décimal ?",
+  "o": [
+   "7/9",
+   "49/14",
+   "12",
+   "7/25"
+  ],
+  "a": 0,
+  "e": "7/25 = 0,28 ; 49/14 = 7/2 = 3,5 ; 12 est entier donc décimal. 7/9 = 0,777... n'est pas décimal (dénominateur 9 = 3²).",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Combien de disques de rayon 12 cm peut-on tracer au maximum dans une feuille de 100 cm × 70 cm, en les alignant en lignes et en colonnes ?",
+  "o": [
+   "12",
+   "15",
+   "8",
+   "9"
+  ],
+  "a": 2,
+  "e": "Diamètre 24 cm : 100 ÷ 24 ≈ 4,2, soit 4 disques en longueur ; 70 ÷ 24 ≈ 2,9, soit 2 en largeur. Total : 4 × 2 = 8. 15 vient d'un simple quotient d'aires.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Fonctions",
+  "q": "Fournisseur A : 4,20 € par feuille. Fournisseur B : 3,50 € par feuille + 12,60 € de port. À partir de combien de feuilles B est-il strictement moins cher ?",
+  "o": [
+   "18",
+   "19",
+   "3",
+   "4"
+  ],
+  "a": 1,
+  "e": "3,5n + 12,6 < 4,2n donne 12,6 < 0,7n, soit n > 18. À 18 feuilles, égalité (75,60 €) ; B est moins cher dès 19 feuilles.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Proportionnalité",
+  "q": "Alice découpe 30 disques en 40 min et Bertrand découpe 30 disques en 60 min. En travaillant ensemble, combien de temps mettent-ils pour 30 disques ?",
+  "o": [
+   "50 min",
+   "100 min",
+   "20 min",
+   "24 min"
+  ],
+  "a": 3,
+  "e": "Alice : 30/40 = 0,75 disque par minute ; Bertrand : 0,5 disque par minute ; ensemble : 1,25 disque par minute. 30 ÷ 1,25 = 24 min.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 3), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Nombres et calculs",
+  "q": "Pour deux nombres de même chiffre des dizaines d, dont les chiffres des unités ont pour somme 10, on calcule 100 × d × (d + 1) + (produit des unités). Que donne cette méthode pour 72 × 78 ?",
+  "o": [
+   "5 636",
+   "4 916",
+   "5 606",
+   "5 616"
+  ],
+  "a": 3,
+  "e": "d = 7 : 100 × 7 × 8 = 5 600 ; unités : 2 × 8 = 16. Total : 5 616, et en effet 72 × 78 = 5 616.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 4), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Géométrie plane",
+  "q": "Deux croix M et L sont à 20 m et 30 m d'un mur rectiligne ; leurs projetés R et S sur le mur sont distants de 50 m. On cherche C sur [RS], à égale distance de M et L. Combien mesure RC ?",
+  "o": [
+   "30 m",
+   "25 m",
+   "20 m",
+   "32 m"
+  ],
+  "a": 0,
+  "e": "Avec RC = x : MC² = x² + 400 et LC² = (50 - x)² + 900. Égalité : 400 = 2 500 - 100x + 900, donc 100x = 3 000 et x = 30 m.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 5), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Deux briques bleues pèsent autant que trois briques rouges, et une bleue plus une rouge pèsent 25 g. Combien pèse chaque brique ?",
+  "o": [
+   "Bleue 10 g, rouge 15 g",
+   "Bleue 15 g, rouge 10 g",
+   "Bleue 12,5 g, rouge 12,5 g",
+   "Bleue 9 g, rouge 6 g"
+  ],
+  "a": 1,
+  "e": "2b = 3r donne b = 1,5r ; b + r = 2,5r = 25, donc r = 10 g et b = 15 g. Vérification : 2 × 15 = 3 × 10.",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, résolution de problèmes algébriques (document A), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/18196/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Un groupe de 25 enfants et 4 adultes paie 152 € au cinéma. La place adulte coûte 8 €. Combien coûte la place enfant ?",
+  "o": [
+   "6,08 €",
+   "5,24 €",
+   "4,80 €",
+   "5,76 €"
+  ],
+  "a": 2,
+  "e": "Adultes : 4 × 8 = 32 €. Enfants : 152 - 32 = 120 € pour 25 places, soit 4,80 €. 6,08 € oublie de retirer les adultes.",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, résolution de problèmes algébriques (document C), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/18196/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Algèbre",
+  "q": "Un cochon pèse 150 kg de plus qu'un chien ; un mouton pèse 120 kg de moins que le cochon. Ensemble, ils pèsent 336 kg. Combien pèse le chien ?",
+  "o": [
+   "52 kg",
+   "112 kg",
+   "22 kg",
+   "62 kg"
+  ],
+  "a": 0,
+  "e": "Avec c le poids du chien : cochon c + 150, mouton c + 30. 3c + 180 = 336, donc c = 52 kg (cochon 202 kg, mouton 82 kg).",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, résolution de problèmes algébriques (document C), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/18196/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Une photo de 9 cm × 13 cm est placée derrière un cadre percé d'un disque de 8 cm de diamètre : seule la partie située dans le disque reste visible. Quelle proportion de l'aire de la photo est visible, arrondie au centième ?",
+  "o": [
+   "0,21",
+   "0,57",
+   "0,43",
+   "2,33"
+  ],
+  "a": 2,
+  "e": "Aire du disque : π × 4² ≈ 50,27 cm² ; aire de la photo : 9 × 13 = 117 cm². 50,27 ÷ 117 ≈ 0,43. 0,57 est la part cachée, 0,21 vient de la formule 2πr (périmètre) au lieu de πr².",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, grandeurs et mesures (question 1), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/18199/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Grandeurs et mesures",
+  "q": "Chaque cadre carré de 15 cm de côté est bordé d'un ruban, ainsi que le cercle de 9 cm de diamètre découpé au centre. Quelle longueur de ruban faut-il pour 25 cadres, arrondie au dixième de mètre ?",
+  "o": [
+   "15,0 m",
+   "22,1 m",
+   "2,2 m",
+   "21,5 m"
+  ],
+  "a": 1,
+  "e": "Par cadre : 4 × 15 + π × 9 ≈ 60 + 28,27 = 88,27 cm. Pour 25 cadres : 25 × 88,27 ≈ 2 206,9 cm ≈ 22,1 m. 15,0 m oublie les cercles.",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, grandeurs et mesures (question 2), valeurs modifiées",
+  "u": "https://devenirenseignant.gouv.fr/media/18199/download",
+  "k": "les deux"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève de CE2 propose : « Un rectangle est un quadrilatère dont les côtés opposés sont de même longueur. » Pourquoi cette définition ne convient-elle pas ?",
+  "o": [
+   "Parce qu'un carré n'a pas de côtés opposés",
+   "Parce qu'il faudrait parler des diagonales et non des côtés",
+   "Parce qu'un rectangle n'a pas ses côtés opposés égaux",
+   "Parce qu'un parallélogramme quelconque vérifie aussi cette propriété"
+  ],
+  "a": 3,
+  "e": "La propriété est vraie pour tout rectangle mais elle ne le caractérise pas : un parallélogramme non rectangle est un contre-exemple. Une définition doit être une condition suffisante.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 2), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève propose : « Un rectangle est un quadrilatère dont les diagonales sont de même longueur. » Quel contre-exemple l'enseignant peut-il montrer ?",
+  "o": [
+   "Un triangle isocèle",
+   "Un carré",
+   "Un losange non carré",
+   "Un trapèze isocèle non rectangle"
+  ],
+  "a": 3,
+  "e": "Le trapèze isocèle a des diagonales de même longueur sans être un rectangle. Il manque la condition « diagonales de même milieu ». Le carré, lui, est un rectangle, et les diagonales d'un losange non carré ne sont pas égales.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 2), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève affirme : « Un quadrilatère qui a deux angles droits est un rectangle. » Quelle figure fournit un contre-exemple ?",
+  "o": [
+   "Un trapèze rectangle",
+   "Un rectangle",
+   "Un losange",
+   "Un carré"
+  ],
+  "a": 0,
+  "e": "Un trapèze rectangle a deux angles droits consécutifs sans avoir ses quatre angles droits. Il faut trois angles droits (le quatrième s'en déduit) pour conclure.",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 2), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève dit : « Un nombre décimal est un nombre qui n'est pas entier. » Quel nombre montre que « non entier » ne suffit pas pour être décimal ?",
+  "o": [
+   "2/5",
+   "0,75",
+   "1/3",
+   "12"
+  ],
+  "a": 2,
+  "e": "1/3 n'est pas entier et n'est pas décimal non plus : il ne peut pas s'écrire a/10ⁿ. Par ailleurs 12 montre qu'un entier est décimal, donc la définition est fausse dans les deux sens.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 2), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève dit : « Un décimal s'écrit avec une fraction qui a 10 ou 100 au dénominateur. » Quel nombre décimal contredit cette définition ?",
+  "o": [
+   "0,007",
+   "0,25",
+   "0,3",
+   "4,5"
+  ],
+  "a": 0,
+  "e": "0,007 = 7/1 000 : il faut une puissance de 10 quelconque (10ⁿ), pas seulement 10 ou 100. Les autres nombres s'écrivent avec 10 ou 100 au dénominateur.",
+  "s": "Sujet zéro CRPE de mathématiques (exercice 2), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/328/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Pour ranger 0,7 et 0,68, un élève affirme que 0,68 est le plus grand « car 68 est plus grand que 7 ». Quelle conception erronée révèle-t-il ?",
+  "o": [
+   "Il ne sait pas lire la partie entière",
+   "Il confond multiplication et addition",
+   "Il traite la partie décimale comme un nombre entier",
+   "Il confond dixièmes et dizaines dans la partie entière"
+  ],
+  "a": 2,
+  "e": "Il compare 68 et 7 comme des entiers, sans tenir compte de la valeur des chiffres : 0,7 = 7 dixièmes = 70 centièmes, plus que 68 centièmes.",
+  "s": "Exemple de sujet CRPE bac+3, écrit 1 (exercice 1), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/17246/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève affirme qu'il n'existe aucun nombre décimal entre 0,9 et 1. Quel nombre l'enseignant peut-il proposer pour le contredire ?",
+  "o": [
+   "0,89",
+   "0,95",
+   "1,1",
+   "9/10"
+  ],
+  "a": 1,
+  "e": "0,95 est compris entre 0,9 = 0,90 et 1 = 1,00. Entre deux décimaux distincts, il existe toujours une infinité de décimaux : l'élève les pense à tort « consécutifs » comme les entiers.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 1), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Pour passer d'une recette pour 4 personnes (250 g de farine) à 6 personnes, un élève écrit : « 250 + 125 = 375 g, car 6 c'est 4 plus la moitié de 4 ». Quelle propriété utilise-t-il ?",
+  "o": [
+   "Le passage par l'unité",
+   "Le coefficient de proportionnalité",
+   "Une erreur additive (ajout de la même quantité)",
+   "La linéarité additive (et multiplicative pour la moitié)"
+  ],
+  "a": 3,
+  "e": "Il décompose 6 = 4 + 2 et ajoute les quantités correspondantes : quantité(4) + quantité(2), avec quantité(2) = moitié de quantité(4). Ce sont des propriétés de linéarité, et son résultat est juste.",
+  "s": "Sujet CRPE bac+3 2026, écrit 1, groupement 3 (exercice 2), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/20283/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Pesées : 3 briques bleues = 4 rouges et 1 bleue + 2 rouges = 20 g. Un élève double la deuxième pesée (2 bleues + 4 rouges = 40 g), puis remplace 4 rouges par 3 bleues. Quelle démarche met-il en œuvre ?",
+  "o": [
+   "Des essais successifs au hasard",
+   "Un calcul de moyenne",
+   "Une lecture graphique",
+   "Une procédure de substitution après avoir multiplié une égalité"
+  ],
+  "a": 3,
+  "e": "Il multiplie les deux membres d'une égalité par 2, puis remplace une quantité par une quantité égale : 2 + 3 = 5 bleues pèsent 40 g, donc une bleue pèse 8 g et une rouge 6 g. C'est une démarche pré-algébrique.",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, résolution de problèmes algébriques (document B), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/18196/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Problème de CM : « 24 enfants et 3 adultes paient 129 € ; l'adulte paie 7 €. Combien paie un enfant ? » Quelle procédure arithmétique un élève peut-il utiliser sans écrire d'équation ?",
+  "o": [
+   "Soustraire le coût des adultes (21 €), puis diviser 108 par 24",
+   "Diviser 129 par 27",
+   "Multiplier 24 par 7 puis retrancher de 129",
+   "Diviser 129 par 24 puis retirer 7"
+  ],
+  "a": 0,
+  "e": "Le raisonnement par « retour en arrière » donne 129 - 3 × 7 = 108, puis 108 ÷ 24 = 4,50 €. Diviser 129 par 27 suppose à tort un prix unique.",
+  "s": "Exemple d'oral de mathématiques CRPE bac+3, résolution de problèmes algébriques (document C), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/18196/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Problème : « Zoé a 7 crayons de plus que Léa ; à elles deux, elles en ont 31. Combien Zoé en a-t-elle ? » Un élève écrit : 31 - 7 = 24, 24 ÷ 2 = 12, « Zoé a 12 crayons ». Quelle est son erreur ?",
+  "o": [
+   "Il a mal calculé 31 - 7",
+   "Il a trouvé le nombre de crayons de Léa, et non celui de Zoé",
+   "Il aurait dû diviser par 3",
+   "Il aurait dû ajouter 7 à 31 puis diviser par 2"
+  ],
+  "a": 1,
+  "e": "Retirer l'écart puis partager en deux donne la part de la plus petite (Léa : 12). Zoé en a 12 + 7 = 19 ; vérification : 12 + 19 = 31.",
+  "s": "Sujet CRPE bac+5 2024, groupement 2 (exercice 5), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/13656/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève justifie que 2 529 est divisible par 3 « parce qu'il se termine par 9 ». Quelle remarque l'enseignant doit-il faire ?",
+  "o": [
+   "La réponse et la justification sont correctes",
+   "Le nombre n'est pas divisible par 3",
+   "Le critère porte sur la somme des chiffres (ici 18), pas sur le dernier chiffre",
+   "Il faut regarder les deux derniers chiffres"
+  ],
+  "a": 2,
+  "e": "La conclusion est juste mais la justification confond avec les critères de 2, 5 ou 10. 19 se termine par 9 et n'est pas divisible par 3 ; pour 2 529, 2 + 5 + 2 + 9 = 18 est multiple de 3.",
+  "s": "Sujet CRPE bac+5 2023, groupement 3 (exercice 1), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/7577/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève constate sur trois exemples que la différence entre un nombre à deux chiffres et son « retourné » est un multiple de 9 et conclut que c'est toujours vrai. Que manque-t-il à son raisonnement ?",
+  "o": [
+   "Une preuve générale, par exemple avec 10d + u - (10u + d) = 9(d - u)",
+   "Un quatrième exemple",
+   "Rien, trois exemples suffisent",
+   "Un contre-exemple"
+  ],
+  "a": 0,
+  "e": "Des exemples permettent de formuler une conjecture, pas de la démontrer. L'écriture littérale prouve la propriété pour tous les nombres à deux chiffres.",
+  "s": "Sujet CRPE bac+5 2023, sujet supplémentaire (exercice 6), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/7550/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Un élève pense que deux rectangles de même périmètre ont forcément la même aire. Quel couple de rectangles le contredit ?",
+  "o": [
+   "2 cm × 3 cm et 3 cm × 2 cm",
+   "2 cm × 4 cm et 4 cm × 2 cm",
+   "1 cm × 5 cm et 3 cm × 3 cm",
+   "1 cm × 4 cm et 2 cm × 2 cm"
+  ],
+  "a": 2,
+  "e": "1 × 5 et 3 × 3 ont tous deux un périmètre de 12 cm, mais des aires de 5 cm² et 9 cm². Aire et périmètre sont des grandeurs indépendantes.",
+  "s": "Sujet CRPE bac+5 2025, groupement 1 (exercice 5), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/16564/download",
+  "k": "bac+5"
+ },
+ {
+  "c": "Maths",
+  "t": "Didactique",
+  "q": "Avec la règle des doigts (6 × 7 : 1 et 2 doigts levés, 4 et 3 baissés), que représente le nombre de doigts baissés d'une main pour le facteur n ?",
+  "o": [
+   "n - 5",
+   "10 - n",
+   "5 + n",
+   "n ÷ 2"
+  ],
+  "a": 1,
+  "e": "On lève n - 5 doigts sur 5, donc on en baisse 5 - (n - 5) = 10 - n. La règle repose sur l'identité (5 + g)(5 + d) = 10(g + d) + (5 - g)(5 - d).",
+  "s": "Sujet CRPE bac+5 2023, groupement 2 (exercice 6), adapté",
+  "u": "https://devenirenseignant.gouv.fr/media/7568/download",
+  "k": "bac+5"
+ }
+]
